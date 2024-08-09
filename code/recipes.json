@@ -1,0 +1,1359 @@
+{  "recipes": [ 
+{
+  "name": "chocolate-chip-cookies-for-special-diets",
+  "ingredients": [
+    {"amount": 0.75, "unit": "cup", "ingredient": "granulated artificial sweetener", "taste_score": 3, "type": "Sweetener"},
+    {"amount": 2, "unit": "tablespoons", "ingredient": "water", "taste_score": 2, "type": "Liquid"},
+    {"amount": 0.5, "unit": "teaspoon", "ingredient": "vanilla extract", "taste_score": 4, "type": "Flavor"},
+    {"amount": 1, "unit": " ", "ingredient": "egg beaten", "taste_score": 4, "type": "Binding"},
+    {"amount": 1.125, "unit": "cups", "ingredient": "all-purpose flour", "taste_score": 3, "type": "Binding"},
+    {"amount": 0.5, "unit": "teaspoon", "ingredient": "baking soda", "taste_score": 3, "type": "Rising"},
+    {"amount": 0.5, "unit": "teaspoon", "ingredient": "salt", "taste_score": 2, "type": "Seasoning"},
+    {"amount": 0.5, "unit": "cup", "ingredient": "semisweet chocolate chips", "taste_score": 5, "type": "Add-in"},
+    {"amount": 0.5, "unit": "cup", "ingredient": "chopped pecans", "taste_score": 4, "type": "Add-in"},
+    {"amount": 0.5, "unit": "cup", "ingredient": "butter softened", "taste_score": 5, "type": "Fat"}
+  ]
+},
+{
+  "name": "4-ingredient-keto-peanut-butter-cookies",
+  "ingredients": [
+    {"amount": 1, "unit": "cup", "ingredient": "peanut butter", "taste_score": 5, "type": "Binding"},        
+    {"amount": 0.5, "unit": "cup", "ingredient": "low-calorie natural sweetener (such as Swerve)", "taste_score": 4, "type": "Sweetener"},
+    {"amount": 1, "unit": " ", "ingredient": "egg", "taste_score": 4, "type": "Binding"},
+    {"amount": 1, "unit": "teaspoon", "ingredient": "sugar-free vanilla extract", "taste_score": 3, "type": "Flavor"}
+  ]
+},
+{
+  "name": "sugar-free-peanut-butter-cookies",
+  "ingredients": [
+    {"amount": 2, "unit": "cups", "ingredient": "smooth natural peanut butter", "taste_score": 5, "type": "Binding"},
+    {"amount": 2, "unit": "cups", "ingredient": "granular no-calorie sucralose sweetener (e.g. Splenda)", "taste_score": 4, "type": "Sweetener"},
+    {"amount": 2, "unit": "large", "ingredient": "eggs", "taste_score": 4, "type": "Binding"}
+  ]
+},
+{
+  "name": "no-bake-bumpy-peanut-butter-nuggets",
+  "ingredients": [
+    {"amount": 0.5, "unit": "cup", "ingredient": "natural peanut butter", "taste_score": 5, "type": "Binding"},
+    {"amount": 0.25, "unit": "cup", "ingredient": "nonfat dry milk powder", "taste_score": 3, "type": "Binding"},
+    {"amount": 0.25, "unit": "cup", "ingredient": "unsweetened flaked coconut", "taste_score": 4, "type": "Texture"},
+    {"amount": 0.33, "unit": "cup", "ingredient": "rolled oats", "taste_score": 3, "type": "Texture"},
+    {"amount": 0.5, "unit": "teaspoon", "ingredient": "ground cinnamon", "taste_score": 2, "type": "Flavor"},
+    {"amount": 0.25, "unit": "cup", "ingredient": "wheat germ", "taste_score": 2, "type": "Texture"},
+    {"amount": 0.25, "unit": "cup", "ingredient": "unsweetened apple juice concentrate thawed", "taste_score": 3, "type": "Liquid"}
+  ]
+},
+{
+  "name": "paleo-coconut-dark-chocolate-chip-cookies",
+  "ingredients": [
+    {"amount": 2, "unit": "cups", "ingredient": "almond flour", "taste_score": 3, "type": "Binding"},
+    {"amount": 0.67, "unit": "cup", "ingredient": "shredded unsweetened coconut", "taste_score": 4, "type": "Texture"},
+    {"amount": 0.33, "unit": "cup", "ingredient": "coconut flour", "taste_score": 3, "type": "Flavor"},
+    {"amount": 1, "unit": " ", "ingredient": "egg", "taste_score": 4, "type": "Binding"},
+    {"amount": 0.5, "unit": "cup", "ingredient": "almond butter softened", "taste_score": 5, "type": "Fat"},
+    {"amount": 0.25, "unit": "cup", "ingredient": "honey", "taste_score": 4, "type": "Sweetener"},
+    {"amount": 1.5, "unit": "teaspoons", "ingredient": "coconut oil melted", "taste_score": 3, "type": "Fat"},
+    {"amount": 1, "unit": "teaspoon", "ingredient": "vanilla extract", "taste_score": 4, "type": "Flavor"},
+    {"amount": 0.75, "unit": "cup", "ingredient": "dark chocolate chips", "taste_score": 5, "type": "Add-in"}
+  ]
+},
+{
+  "name": "sugar-free-date-cookies",
+  "ingredients": [
+    {"amount": 1, "unit": "cup", "ingredient": "chopped dates", "taste_score": 4, "type": "Flavor"},
+    {"amount": 0.25, "unit": "cup", "ingredient": "chopped pecans", "taste_score": 4, "type": "Texture"},
+    {"amount": 0.25, "unit": "cup", "ingredient": "water", "taste_score": 2, "type": "Liquid"},
+    {"amount": 0.5, "unit": "very ripe", "ingredient": "banana mashed", "taste_score": 4, "type": "Sweetener"},
+    {"amount": 1, "unit": "large", "ingredient": "egg lightly beaten", "taste_score": 4, "type": "Binding"},
+    {"amount": 2, "unit": "tablespoons", "ingredient": "butter melted", "taste_score": 5, "type": "Fat"},
+    {"amount": 0.5, "unit": "teaspoon", "ingredient": "vanilla extract", "taste_score": 4, "type": "Flavor"},
+    {"amount": 1, "unit": "cup", "ingredient": "all-purpose flour", "taste_score": 3, "type": "Binding"},
+    {"amount": 1, "unit": "teaspoon", "ingredient": "baking powder", "taste_score": 3, "type": "Rising"},
+    {"amount": 1, "unit": "teaspoon", "ingredient": "cinnamon", "taste_score": 4, "type": "Flavor"},
+    {"amount": 0.25, "unit": "teaspoon", "ingredient": "salt", "taste_score": 2, "type": "Seasoning"}
+  ]
+},
+{
+  "name": "pumpkin-protein-cookies",
+  "ingredients": [
+    {"amount": 1.25, "unit": "cup", "ingredient": "SPLENDA Granular", "taste_score": 5, "type": "Sweetener"},
+    {"amount": 1, "unit": "cup", "ingredient": "rolled oats", "taste_score": 3, "type": "Binding"},
+    {"amount": 1, "unit": "cup", "ingredient": "whole wheat flour", "taste_score": 3, "type": "Binding"},
+    {"amount": 0.5, "unit": "cup", "ingredient": "soy flour", "taste_score": 2, "type": "Binding"},
+    {"amount": 1.75, "unit": "teaspoons", "ingredient": "baking soda", "taste_score": 2, "type": "Rising"},
+    {"amount": 0.5, "unit": "teaspoon", "ingredient": "baking powder", "taste_score": 2, "type": "Rising"},
+    {"amount": 0.5, "unit": "teaspoon", "ingredient": "salt", "taste_score": 2, "type": "Seasoning"},
+    {"amount": 2, "unit": "teaspoons", "ingredient": "ground cinnamon", "taste_score": 4, "type": "Flavor"},
+    {"amount": 1, "unit": "teaspoon", "ingredient": "ground nutmeg", "taste_score": 3, "type": "Flavor"},
+    {"amount": 0.5, "unit": "cup", "ingredient": "pumpkin puree", "taste_score": 4, "type": "Flavor"},
+    {"amount": 1, "unit": "tablespoon", "ingredient": "canola oil", "taste_score": 3, "type": "Fat"},
+    {"amount": 2, "unit": "teaspoons", "ingredient": "water", "taste_score": 2, "type": "Liquid"},
+    {"amount": 2, "unit": "large", "ingredient": "egg whites", "taste_score": 4, "type": "Binding"},
+    {"amount": 1, "unit": "teaspoon", "ingredient": "molasses", "taste_score": 4, "type": "Flavor"},
+    {"amount": 1, "unit": "tablespoon", "ingredient": "flax seeds (Optional)", "taste_score": 2, "type": "Add-in"}
+  ]
+},
+{
+  "name": "chewy-keto-chocolate-cookies",
+  "ingredients": [
+    {"amount": 1.5, "unit": "cups", "ingredient": "almond butter", "taste_score": 5, "type": "Binding"},
+    {"amount": 0.5, "unit": "cup", "ingredient": "low-calorie natural sweetener (such as Swerve)", "taste_score": 4, "type": "Sweetener"},
+    {"amount": 0.66, "unit": "cup", "ingredient": "unsweetened cocoa powder sifted", "taste_score": 4, "type": "Flavor"},
+    {"amount": 2, "unit": "large", "ingredient": "eggs", "taste_score": 4, "type": "Binding"},
+    {"amount": 1, "unit": "teaspoon", "ingredient": "sugar-free vanilla extract", "taste_score": 3, "type": "Flavor"},
+    {"amount": 1, "unit": "pinch", "ingredient": "salt", "taste_score": 2, "type": "Seasoning"}
+  ]
+},
+{
+  "name": "no-sugar-added-cookies",
+  "ingredients": [
+    {"amount": 0.75, "unit": "cup", "ingredient": "butter", "taste_score": 5, "type": "Fat"},
+    {"amount": 2, "unit": " ", "ingredient": "ripe bananas", "taste_score": 4, "type": "Sweetener"},
+    {"amount": 1, "unit": " ", "ingredient": "egg", "taste_score": 4, "type": "Binding"},
+    {"amount": 1, "unit": "teaspoon", "ingredient": "vanilla extract", "taste_score": 4, "type": "Flavor"},
+    {"amount": 1.5, "unit": "cups", "ingredient": "all-purpose flour", "taste_score": 3, "type": "Binding"},
+    {"amount": 1, "unit": "teaspoon", "ingredient": "baking soda", "taste_score": 3, "type": "Rising"},
+    {"amount": 0.5, "unit": "teaspoon", "ingredient": "salt", "taste_score": 2, "type": "Seasoning"},
+    {"amount": 0.5, "unit": "teaspoon", "ingredient": "ground nutmeg", "taste_score": 3, "type": "Flavor"},
+    {"amount": 1.5, "unit": "teaspoon", "ingredient": "ground cinnamon", "taste_score": 4, "type": "Flavor"},
+    {"amount": 1, "unit": "cup", "ingredient": "rolled oats", "taste_score": 3, "type": "Texture"},
+    {"amount": 0.5, "unit": "cup", "ingredient": "chopped walnuts", "taste_score": 4, "type": "Add-in"}
+  ]
+},
+{
+  "name": "low-carb-flavored-meringue-cookies",
+  "ingredients": [
+    {"amount": 1.5, "unit": "teaspoons", "ingredient": "sugar-free strawberry Jell-O mix", "taste_score": 4, "type": "Flavor"},
+    {"amount": 1, "unit": "cup", "ingredient": "granulated no-calorie sugar substitute (such as Splenda)", "taste_score": 4, "type": "Sweetener"},
+    {"amount": 6, "unit": "large", "ingredient": "egg whites at room temperature", "taste_score": 2, "type": "Binding"},
+    {"amount": 0.25, "unit": "teaspoon", "ingredient": "cream of tartar", "taste_score": 2, "type": "Rising"},
+    {"amount": 0.25, "unit": "teaspoon", "ingredient": "salt", "taste_score": 2, "type": "Seasoning"}
+  ]
+},
+{
+  "name": "low-carb-almond-cinnamon-butter-cookies",
+  "ingredients": [
+    {"amount": 2, "unit": "cups", "ingredient": "blanched almond flour", "taste_score": 3, "type": "Binding"},
+    {"amount": 0.5, "unit": "cup", "ingredient": "unsalted butter softened", "taste_score": 5, "type": "Fat"},
+    {"amount": 0.5, "unit": "cup", "ingredient": "low-calorie natural sweetener (such as Swerve)", "taste_score": 4, "type": "Sweetener"},
+    {"amount": 1, "unit": "large", "ingredient": "egg", "taste_score": 4, "type": "Binding"},
+    {"amount": 1, "unit": "teaspoon", "ingredient": "sugar-free vanilla extract", "taste_score": 3, "type": "Flavor"},
+    {"amount": 1, "unit": "teaspoon", "ingredient": "ground cinnamon", "taste_score": 4, "type": "Flavor"}
+  ]
+},
+{
+  "name": "no-sugar-raisin-cookies",
+  "ingredients": [
+    {"amount": 1.5, "unit": "cups", "ingredient": "raisins", "taste_score": 5, "type": "Sweetener"},
+    {"amount": 0.5, "unit": "cup", "ingredient": "peeled cored and chopped apple", "taste_score": 3, "type": "Texture"},
+    {"amount": 1, "unit": "cup", "ingredient": "water", "taste_score": 2, "type": "Liquid"},
+    {"amount": 0.5, "unit": "cup", "ingredient": "butter", "taste_score": 5, "type": "Fat"},
+    {"amount": 1, "unit": "cup", "ingredient": "all-purpose flour", "taste_score": 3, "type": "Binding"},
+    {"amount": 1, "unit": "teaspoon", "ingredient": "baking soda", "taste_score": 3, "type": "Rising"},
+    {"amount": 1, "unit": "teaspoon", "ingredient": "vanilla extract", "taste_score": 3, "type": "Flavor"},
+    {"amount": 1, "unit": "cup", "ingredient": "quick cooking oats", "taste_score": 3, "type": "Texture"},
+    {"amount": 2, "unit": "large", "ingredient": "eggs beaten", "taste_score": 4, "type": "Binding"},
+    {"amount": 0.75, "unit": "cup", "ingredient": "chopped walnuts", "taste_score": 4, "type": "Add-in"}
+  ]
+},
+{
+  "name": "special-oatmeal-cookies",
+  "ingredients": [
+    {"amount": 0.5, "unit": "cups", "ingredient": "rolled oats", "taste_score": 3, "type": "Binding"},
+    {"amount": 1.5, "unit": "cup", "ingredient": "butter melted", "taste_score": 5, "type": "Fat"},
+    {"amount": 4, "unit": "large", "ingredient": "egg whites", "taste_score": 4, "type": "Binding"},
+    {"amount": 1, "unit": "cup", "ingredient": "granulated artificial sweetener", "taste_score": 4, "type": "Sweetener"},
+    {"amount": 1.5, "unit": "cups", "ingredient": "all-purpose flour", "taste_score": 3, "type": "Binding"},
+    {"amount": 0.5, "unit": "teaspoon", "ingredient": "salt", "taste_score": 2, "type": "Seasoning"},
+    {"amount": 2, "unit": "teaspoons", "ingredient": "baking powder", "taste_score": 3, "type": "Rising"},
+    {"amount": 0.5, "unit": "cup", "ingredient": "milk", "taste_score": 2, "type": "Liquid"},
+    {"amount": 1, "unit": "teaspoon", "ingredient": "vanilla extract", "taste_score": 3, "type": "Flavor"},
+    {"amount": 0.5, "unit": "cup", "ingredient": "raisins", "taste_score": 3, "type": "Add-in"},
+    {"amount": 0.5, "unit": "cup", "ingredient": "chopped walnuts", "taste_score": 4, "type": "Add-in"}
+  ]
+},
+{
+  "name": "vanilla-meringue-cookies",
+  "ingredients": [
+    {"amount": 3, "unit": "large", "ingredient": "egg whites", "taste_score": 4, "type": "Binding"},
+    {"amount": 1.5, "unit": "teaspoons", "ingredient": "clear or regular vanilla extract", "taste_score": 5, "type": "Flavor"},
+    {"amount": 0.25, "unit": "teaspoon", "ingredient": "cream of tartar", "taste_score": 2, "type": "Rising"},
+    {"amount": 0, "unit": " ", "ingredient": "salt", "taste_score": 2, "type": "Seasoning"},
+    {"amount": 1.5, "unit": "cup", "ingredient": "sugar", "taste_score": 4, "type": "Sweetener"}
+  ]
+},
+  {
+    "name": "swirled-mint-cookies",
+    "ingredients": [
+      {"amount": 0.5, "unit": "cup", "ingredient": "butter, softened", "taste_score": 5, "type": "Fat"},
+      {"amount": 0.5, "unit": "cup", "ingredient": "reduced-fat butter, softened", "taste_score": 4, "type": "Fat"},
+      {"amount": 0.75, "unit": "cup plus 1 tablespoon", "ingredient": "sugar, divided", "taste_score": 4, "type": "Sweetener"},
+      {"amount": 1, "unit": "large", "ingredient": "egg, room temperature", "taste_score": 4, "type": "Binding"},
+      {"amount": 1, "unit": "teaspoon", "ingredient": "vanilla extract", "taste_score": 5, "type": "Flavor"},
+      {"amount": 0.5, "unit": "teaspoon", "ingredient": "peppermint extract", "taste_score": 5, "type": "Flavor"},
+      {"amount": 2, "unit": "cups", "ingredient": "all-purpose flour", "taste_score": 3, "type": "Binding"},
+      {"amount": 0.5, "unit": "teaspoon", "ingredient": "baking powder", "taste_score": 3, "type": "Rising"},
+      {"amount": 0.25, "unit": "teaspoon", "ingredient": "salt", "taste_score": 2, "type": "Seasoning"},
+      {"amount": 15, "unit": "drops", "ingredient": "red food coloring", "taste_score": 5, "type": "Add-in"},
+      {"amount": 15, "unit": "drops", "ingredient": "green food coloring", "taste_score": 5, "type": "Add-in"}
+    ]
+  },
+  {
+    "name": "banana-chocolate-chip-cookies",
+    "ingredients": [
+      {"amount": 0.33, "unit": "cup", "ingredient": "butter, softened", "taste_score": 5, "type": "Fat"},
+      {"amount": 0.5, "unit": "cup", "ingredient": "sugar", "taste_score": 4, "type": "Sweetener"},
+      {"amount": 1, "unit": "large", "ingredient": "egg, room temperature", "taste_score": 4, "type": "Binding"},
+      {"amount": 0.5, "unit": "cup", "ingredient": "mashed ripe banana", "taste_score": 4, "type": "Texture"},
+      {"amount": 0.5, "unit": "teaspoon", "ingredient": "vanilla extract", "taste_score": 5, "type": "Flavor"},
+      {"amount": 1.25, "unit": "cups", "ingredient": "all-purpose flour", "taste_score": 3, "type": "Binding"},
+      {"amount": 1, "unit": "teaspoon", "ingredient": "baking powder", "taste_score": 3, "type": "Rising"},
+      {"amount": 0.25, "unit": "teaspoon", "ingredient": "salt", "taste_score": 2, "type": "Seasoning"},
+      {"amount": 0.13, "unit": "teaspoon", "ingredient": "baking soda", "taste_score": 2, "type": "Rising"},
+      {"amount": 1, "unit": "cup", "ingredient": "semisweet chocolate chips", "taste_score": 5, "type": "Add-in"}
+    ]
+  },
+  {
+    "name": "carrot-cookie-bites",
+    "ingredients": [
+      {"amount": 0.67, "unit": "cup", "ingredient": "shortening", "taste_score": 4, "type": "Fat"},
+      {"amount": 1, "unit": "cup", "ingredient": "packed brown sugar", "taste_score": 5, "type": "Sweetener"},
+      {"amount": 2, "unit": "large", "ingredient": "eggs, room temperature", "taste_score": 4, "type": "Binding"},
+      {"amount": 0.5, "unit": "cup", "ingredient": "buttermilk", "taste_score": 3, "type": "Liquid"},
+      {"amount": 1, "unit": "teaspoon", "ingredient": "vanilla extract", "taste_score": 5, "type": "Flavor"},
+      {"amount": 2, "unit": "cups", "ingredient": "all-purpose flour", "taste_score": 3, "type": "Binding"},
+      {"amount": 1, "unit": "teaspoon", "ingredient": "ground cinnamon", "taste_score": 4, "type": "Flavor"},
+      {"amount": 0.5, "unit": "teaspoon", "ingredient": "salt", "taste_score": 2, "type": "Seasoning"},
+      {"amount": 0.25, "unit": "teaspoon", "ingredient": "baking powder", "taste_score": 3, "type": "Rising"},
+      {"amount": 0.25, "unit": "teaspoon", "ingredient": "baking soda", "taste_score": 2, "type": "Rising"},
+      {"amount": 0.25, "unit": "teaspoon", "ingredient": "ground nutmeg", "taste_score": 3, "type": "Flavor"},
+      {"amount": 0.25, "unit": "teaspoon", "ingredient": "ground cloves", "taste_score": 3, "type": "Flavor"},
+      {"amount": 2, "unit": "cups", "ingredient": "quick-cooking oats", "taste_score": 3, "type": "Texture"},
+      {"amount": 1, "unit": "cup", "ingredient": "shredded carrots", "taste_score": 4, "type": "Flavor"},
+      {"amount": 0.5, "unit": "cup", "ingredient": "chopped pecans", "taste_score": 4, "type": "Add-in"}
+    ]
+  },
+  {
+    "name": "chocolate-crinkle-cookies",
+    "ingredients": [
+      {"amount": 2, "unit": "cups", "ingredient": "semisweet chocolate chips, divided", "taste_score": 5, "type": "Add-in"},
+      {"amount": 2, "unit": "tablespoons", "ingredient": "butter, softened", "taste_score": 5, "type": "Fat"},
+      {"amount": 1, "unit": "cup", "ingredient": "sugar", "taste_score": 4, "type": "Sweetener"},
+      {"amount": 2, "unit": "large", "ingredient": "egg whites, room temperature", "taste_score": 4, "type": "Binding"},
+      {"amount": 1.5, "unit": "teaspoons", "ingredient": "vanilla extract", "taste_score": 5, "type": "Flavor"},
+      {"amount": 1.5, "unit": "cups", "ingredient": "all-purpose flour", "taste_score": 3, "type": "Binding"},
+      {"amount": 1.5, "unit": "teaspoons", "ingredient": "baking powder", "taste_score": 3, "type": "Rising"},
+      {"amount": 0.25, "unit": "teaspoon", "ingredient": "salt", "taste_score": 2, "type": "Seasoning"},
+      {"amount": 0.25, "unit": "cup", "ingredient": "water", "taste_score": 2, "type": "Liquid"},
+      {"amount": 0.5, "unit": "cup", "ingredient": "confectioners' sugar", "taste_score": 4, "type": "Sweetener"}
+    ]
+  },
+    {
+    "name": "chipotle-crackle-cookies",
+    "ingredients": [
+      {"amount": 2, "unit": "large", "ingredient": "eggs, room temperature", "taste_score": 4, "type": "Binding"},
+      {"amount": 1, "unit": "cup", "ingredient": "sugar", "taste_score": 4, "type": "Sweetener"},
+      {"amount": 0.25, "unit": "cup", "ingredient": "canola oil", "taste_score": 4, "type": "Fat"},
+      {"amount": 2, "unit": "teaspoons", "ingredient": "vanilla extract", "taste_score": 5, "type": "Flavor"},
+      {"amount": 2, "unit": "ounces", "ingredient": "unsweetened chocolate, melted and cooled", "taste_score": 5, "type": "Add-in"},
+      {"amount": 1, "unit": "cup", "ingredient": "all-purpose flour", "taste_score": 3, "type": "Binding"},
+      {"amount": 1, "unit": "tablespoon", "ingredient": "toasted wheat germ", "taste_score": 3, "type": "Add-in"},
+      {"amount": 0.75, "unit": "teaspoon", "ingredient": "baking powder", "taste_score": 3, "type": "Rising"},
+      {"amount": 0.25, "unit": "teaspoon", "ingredient": "salt", "taste_score": 2, "type": "Seasoning"},
+      {"amount": 0.125, "unit": "teaspoon", "ingredient": "ground chipotle pepper", "taste_score": 5, "type": "Flavor"},
+      {"amount": 0.25, "unit": "cup", "ingredient": "miniature semisweet chocolate chips", "taste_score": 5, "type": "Add-in"},
+      {"amount": 0.33, "unit": "cup", "ingredient": "confectioners' sugar", "taste_score": 4, "type": "Sweetener"}
+    ]
+  },
+  {
+    "name": "chewy-coconut-macaroons",
+    "ingredients": [
+      {"amount": 2.5, "unit": "cups", "ingredient": "sweetened shredded coconut", "taste_score": 4, "type": "Binding"},
+      {"amount": 0.75, "unit": "cup", "ingredient": "all-purpose flour", "taste_score": 3, "type": "Binding"},
+      {"amount": 0.125, "unit": "teaspoon", "ingredient": "salt", "taste_score": 1, "type": "Flavor"},
+      {"amount": 1, "unit": "can", "ingredient": "fat-free sweetened condensed milk", "taste_score": 3, "type": "Binding"},
+      {"amount": 1.5, "unit": "teaspoons", "ingredient": "almond extract", "taste_score": 5, "type": "Flavor"}
+    ]
+  },
+  {
+    "name": "coconut-kisses",
+    "ingredients": [
+      {"amount": 1, "unit": "large", "ingredient": "egg white", "taste_score": 3, "type": "Binding"},
+      {"amount": 0.5, "unit": "cup", "ingredient": "confectioners' sugar", "taste_score": 4, "type": "Sweetener"},
+      {"amount": 1, "unit": "cup", "ingredient": "sweetened shredded coconut", "taste_score": 4, "type": "Add-in"}
+    ]
+  },
+  {
+    "name": "chocolate-peanut-butter-cookies",
+    "ingredients": [
+      {"amount": 1, "unit": "cup", "ingredient": "chunky peanut butter", "taste_score": 5, "type": "Binding"},
+      {"amount": 0.25, "unit": "cup", "ingredient": "canola oil", "taste_score": 3, "type": "Binding"},
+      {"amount": 0.75, "unit": "cup", "ingredient": "packed brown sugar", "taste_score": 4, "type": "Sweetener"},
+      {"amount": 0.5, "unit": "cup", "ingredient": "sugar", "taste_score": 4, "type": "Sweetener"},
+      {"amount": 1, "unit": "tablespoon", "ingredient": "vanilla extract", "taste_score": 5, "type": "Flavor"},
+      {"amount": 2, "unit": "large", "ingredient": "eggs", "taste_score": 3, "type": "Binding"},
+      {"amount": 1, "unit": "cup", "ingredient": "all-purpose flour", "taste_score": 3, "type": "Binding"},
+      {"amount": 0.33, "unit": "cup", "ingredient": "baking cocoa", "taste_score": 4, "type": "Flavor"},
+      {"amount": 1, "unit": "teaspoon", "ingredient": "baking soda", "taste_score": 3, "type": "Rising"},
+      {"amount": 0.5, "unit": "teaspoon", "ingredient": "salt", "taste_score": 1, "type": "Flavor"},
+      {"amount": 0.5, "unit": "cup", "ingredient": "miniature chocolate chips", "taste_score": 5, "type": "Add-in"}
+    ]
+  },
+  {
+    "name": "pumpkin-seed-cranberry-biscotti",
+    "ingredients": [
+      {"amount": 2, "unit": "large", "ingredient": "eggs, room temperature", "taste_score": 3, "type": "Binding"},
+      {"amount": 0.25, "unit": "cup", "ingredient": "canola oil", "taste_score": 3, "type": "Binding"},
+      {"amount": 0.75, "unit": "cup", "ingredient": "sugar", "taste_score": 4, "type": "Sweetener"},
+      {"amount": 1.5, "unit": "teaspoons", "ingredient": "vanilla extract", "taste_score": 5, "type": "Flavor"},
+      {"amount": 0.5, "unit": "teaspoon", "ingredient": "almond extract", "taste_score": 5, "type": "Flavor"},
+      {"amount": 2, "unit": "cups", "ingredient": "all-purpose flour", "taste_score": 3, "type": "Binding"},
+      {"amount": 1, "unit": "teaspoon", "ingredient": "baking powder", "taste_score": 3, "type": "Rising"},
+      {"amount": 0.5, "unit": "teaspoon", "ingredient": "salt", "taste_score": 1, "type": "Flavor"},
+      {"amount": 1, "unit": "cup", "ingredient": "salted pumpkin seeds or pepitas, toasted", "taste_score": 4, "type": "Add-in"},
+      {"amount": 0.5, "unit": "cup", "ingredient": "dried cranberries", "taste_score": 4, "type": "Add-in"}
+    ]
+  },
+  {
+    "name": "cinnamon-roll-macarons",
+    "ingredients": [
+      {"amount": 4, "unit": "large", "ingredient": "egg whites", "taste_score": 3, "type": "Binding"},
+      {"amount": 1.5, "unit": "cups", "ingredient": "almond flour", "taste_score": 3, "type": "Binding"},
+      {"amount": 1.25, "unit": "cups", "ingredient": "confectioners' sugar", "taste_score": 4, "type": "Sweetener"},
+      {"amount": 0.5, "unit": "teaspoon", "ingredient": "ground cinnamon", "taste_score": 4, "type": "Flavor"},
+      {"amount": 0.75, "unit": "cup", "ingredient": "sugar", "taste_score": 4, "type": "Sweetener"},
+      {"amount": 4, "unit": "ounces", "ingredient": "cream cheese softened", "taste_score": 5, "type": "Binding"},
+      {"amount": 3, "unit": "tablespoons", "ingredient": "butter softened", "taste_score": 4, "type": "Fat"},
+      {"amount": 1, "unit": "teaspoon", "ingredient": "vanilla extract", "taste_score": 5, "type": "Flavor"},
+      {"amount": 1.5, "unit": "cups", "ingredient": "confectioners' sugar", "taste_score": 4, "type": "Sweetener"},
+      {"amount": 0, "unit": "Additional", "ingredient": "ground cinnamon", "taste_score": 4, "type": "Flavor"}
+    ]
+  },
+  {
+    "name": "peppermint-kisses",
+    "ingredients": [
+      {"amount": 2, "unit": "large", "ingredient": "egg whites, room temperature", "taste_score": 3, "type": "Binding"},
+      {"amount": 0.125, "unit": "teaspoon", "ingredient": "salt", "taste_score": 1, "type": "Flavor"},
+      {"amount": 0.125, "unit": "teaspoon", "ingredient": "cream of tartar", "taste_score": 2, "type": "Rising"},
+      {"amount": 0.5, "unit": "cup", "ingredient": "sugar", "taste_score": 4, "type": "Sweetener"},
+      {"amount": 2, "unit": "peppermint candy canes, crushed", "ingredient": "peppermint candy canes, crushed", "taste_score": 5, "type": "Add-in"}
+    ]
+  },
+  {
+    "name": "triple-ginger-gingersnaps",
+    "ingredients": [
+      {"amount": 0.6667, "unit": "cup", "ingredient": "butter softened", "taste_score": 5, "type": "Binding"},
+      {"amount": 1, "unit": "cup", "ingredient": "packed brown sugar", "taste_score": 4, "type": "Sweetener"},
+      {"amount": 0.25, "unit": "cup", "ingredient": "molasses", "taste_score": 5, "type": "Sweetener"},
+      {"amount": 1, "unit": "large", "ingredient": "egg, room temperature", "taste_score": 3, "type": "Binding"},
+      {"amount": 2, "unit": "teaspoons", "ingredient": "minced fresh gingerroot", "taste_score": 5, "type": "Flavor"},
+      {"amount": 1, "unit": "cup", "ingredient": "all-purpose flour", "taste_score": 3, "type": "Binding"},
+      {"amount": 0.75, "unit": "cup", "ingredient": "whole wheat flour", "taste_score": 3, "type": "Binding"},
+      {"amount": 3, "unit": "teaspoons", "ingredient": "ground ginger", "taste_score": 5, "type": "Flavor"},
+      {"amount": 1.5, "unit": "teaspoons", "ingredient": "baking soda", "taste_score": 3, "type": "Rising"},
+      {"amount": 0.5, "unit": "teaspoon", "ingredient": "fine sea salt or kosher salt", "taste_score": 1, "type": "Flavor"},
+      {"amount": 0.5, "unit": "teaspoon", "ingredient": "ground nutmeg", "taste_score": 2, "type": "Flavor"},
+      {"amount": 0.25, "unit": "teaspoon", "ingredient": "ground cloves", "taste_score": 2, "type": "Flavor"},
+      {"amount": 3, "unit": "tablespoons", "ingredient": "finely chopped crystallized ginger", "taste_score": 5, "type": "Add-in"},
+      {"amount": 0.25, "unit": "cup", "ingredient": "sugar", "taste_score": 4, "type": "Sweetener"},
+      {"amount": 1.5, "unit": "teaspoons", "ingredient": "ground cinnamon", "taste_score": 4, "type": "Flavor"}
+    ]
+  },
+  {
+    "name": "molasses-crackle-cookies",
+    "ingredients": [
+      {"amount": 1.5, "unit": "cup", "ingredient": "sugar", "taste_score": 4, "type": "Sweetener"},
+      {"amount": 0.25, "unit": "cup", "ingredient": "canola oil", "taste_score": 3, "type": "Binding"},
+      {"amount": 1, "unit": "large", "ingredient": "egg", "taste_score": 3, "type": "Binding"},
+      {"amount": 0.33, "unit": "cup", "ingredient": "molasses", "taste_score": 5, "type": "Sweetener"},
+      {"amount": 2, "unit": "cups", "ingredient": "white whole wheat flour", "taste_score": 3, "type": "Binding"},
+      {"amount": 1.5, "unit": "teaspoons", "ingredient": "baking soda", "taste_score": 3, "type": "Rising"},
+      {"amount": 1, "unit": "teaspoon", "ingredient": "ground cinnamon", "taste_score": 4, "type": "Flavor"},
+      {"amount": 0.5, "unit": "teaspoon", "ingredient": "salt", "taste_score": 1, "type": "Flavor"},
+      {"amount": 0.25, "unit": "teaspoon", "ingredient": "ground ginger", "taste_score": 2, "type": "Flavor"},
+      {"amount": 0.25, "unit": "teaspoon", "ingredient": "ground cloves", "taste_score": 2, "type": "Flavor"},
+      {"amount": 1, "unit": "tablespoon", "ingredient": "confectioners' sugar", "taste_score": 4, "type": "Sweetener"}
+    ]
+  },
+  {
+    "name": "first-place-coconut-macaroons",
+    "ingredients": [
+      {"amount": 1.3333, "unit": "cups", "ingredient": "sweetened shredded coconut", "taste_score": 4, "type": "Binding"},
+      {"amount": 0.33, "unit": "cup", "ingredient": "sugar", "taste_score": 3, "type": "Sweetener"},
+      {"amount": 2, "unit": "tablespoons", "ingredient": "all-purpose flour", "taste_score": 3, "type": "Binding"},
+      {"amount": 0.2, "unit": "teaspoon", "ingredient": "salt", "taste_score": 1, "type": "Flavor"},
+      {"amount": 2, "unit": "large", "ingredient": "egg whites, room temperature", "taste_score": 3, "type": "Binding"},
+      {"amount": 0.5, "unit": "teaspoon", "ingredient": "vanilla extract", "taste_score": 5, "type": "Flavor"}
+    ]
+  },
+  {
+    "name": "mocha-meringue-sandwich-cookies",
+    "ingredients": [
+      {"amount": 3, "unit": "large", "ingredient": "egg whites, room temperature", "taste_score": 3, "type": "Binding"},
+      {"amount": 1, "unit": "teaspoon", "ingredient": "instant coffee granules", "taste_score": 5, "type": "Flavor"},
+      {"amount": 0.5, "unit": "cup", "ingredient": "confectioners' sugar", "taste_score": 4, "type": "Sweetener"},
+      {"amount": 0.25, "unit": "cup", "ingredient": "baking cocoa", "taste_score": 4, "type": "Flavor"},
+      {"amount": 0.25, "unit": "teaspoon", "ingredient": "cream of tartar", "taste_score": 2, "type": "Rising"},
+      {"amount": 0.75, "unit": "cup", "ingredient": "sugar", "taste_score": 4, "type": "Sweetener"},
+      {"amount": 0.75, "unit": "cup", "ingredient": "chocolate frosting", "taste_score": 5, "type": "Flavor"},
+      {"amount": 0, "unit": "Additional", "ingredient": "confectioners' sugar", "taste_score": 4, "type": "Sweetener"}
+    ]
+  },
+  {
+    "name": "chocolate-dipped-strawberry-meringue-roses",
+    "ingredients": [
+      {"amount": 3, "unit": "large", "ingredient": "egg whites", "taste_score": 3, "type": "Binding"},
+      {"amount": 0.25, "unit": "cup", "ingredient": "sugar", "taste_score": 4, "type": "Sweetener"},
+      {"amount": 0.25, "unit": "cup", "ingredient": "freeze-dried strawberries", "taste_score": 5, "type": "Flavor"},
+      {"amount": 1, "unit": "package", "ingredient": "strawberry gelatin", "taste_score": 4, "type": "Flavor"},
+      {"amount": 0.5, "unit": "teaspoon", "ingredient": "vanilla extract, optional", "taste_score": 4, "type": "Flavor"},
+      {"amount": 1, "unit": "cup", "ingredient": "cacao bittersweet chocolate baking chips melted", "taste_score": 5, "type": "Flavor"}
+    ]
+  },
+  {
+    "name": "lime-coconut-biscotti",
+    "ingredients": [
+      {"amount": 0.75, "unit": "cup", "ingredient": "sugar", "taste_score": 4, "type": "Sweetener"},
+      {"amount": 0.25, "unit": "cup", "ingredient": "canola oil", "taste_score": 3, "type": "Binding"},
+      {"amount": 2, "unit": "large", "ingredient": "eggs", "taste_score": 3, "type": "Binding"},
+      {"amount": 0.25, "unit": "cup", "ingredient": "lime juice", "taste_score": 5, "type": "Flavor"},
+      {"amount": 1, "unit": "teaspoon", "ingredient": "vanilla extract", "taste_score": 5, "type": "Flavor"},
+      {"amount": 0.25, "unit": "teaspoon", "ingredient": "coconut extract", "taste_score": 5, "type": "Flavor"},
+      {"amount": 1.75, "unit": "cups", "ingredient": "all-purpose flour", "taste_score": 3, "type": "Binding"},
+      {"amount": 0.6667, "unit": "cup", "ingredient": "cornmeal", "taste_score": 2, "type": "Binding"},
+      {"amount": 1.5, "unit": "teaspoons", "ingredient": "baking powder", "taste_score": 3, "type": "Rising"},
+      {"amount": 0.25, "unit": "teaspoon", "ingredient": "salt", "taste_score": 1, "type": "Flavor"},
+      {"amount": 1, "unit": "cup", "ingredient": "sweetened shredded coconut", "taste_score": 4, "type": "Add-in"},
+      {"amount": 1, "unit": "teaspoon", "ingredient": "grated lime zest", "taste_score": 5, "type": "Flavor"}
+    ]
+  },
+  {
+    "name": "lemon-meringue-pie-cookies",
+    "ingredients": [
+      {"amount": 3, "unit": "large", "ingredient": "egg whites", "taste_score": 3, "type": "Binding"},
+      {"amount": 0.5, "unit": "teaspoon", "ingredient": "vanilla extract", "taste_score": 5, "type": "Flavor"},
+      {"amount": 0.25, "unit": "teaspoon", "ingredient": "cream of tartar", "taste_score": 2, "type": "Rising"},
+      {"amount": 0.75, "unit": "cup", "ingredient": "sugar", "taste_score": 4, "type": "Sweetener"},
+      {"amount": 4, "unit": "large", "ingredient": "eggs, room temperature", "taste_score": 3, "type": "Binding"},
+      {"amount": 1.3333, "unit": "cups", "ingredient": "sugar", "taste_score": 4, "type": "Sweetener"},
+      {"amount": 0.3333, "unit": "cup", "ingredient": "lemon juice", "taste_score": 5, "type": "Liquid"},
+      {"amount": 4, "unit": "teaspoons", "ingredient": "grated lemon zest", "taste_score": 5, "type": "Flavor"},
+      {"amount": 3, "unit": "tablespoons", "ingredient": "butter", "taste_score": 5, "type": "Binding"}
+    ]
+  },
+  {
+    "name": "Spiced-Pumpkin-Chip-Cookies",
+    "ingredients": [
+      {"amount": 0.5, "unit": "cup", "ingredient": "butter, softened", "taste_score": 5, "type": "Fat"},
+      {"amount": 1.25, "unit": "cup", "ingredient": "Splenda", "taste_score": 3, "type": "Sweetener"},
+      {"amount": 1, "unit": "cup", "ingredient": "canned pumpkin", "taste_score": 3, "type": "Flavor"},
+      {"amount": 1, "unit": " ", "ingredient": "egg", "taste_score": 3, "type": "Binding"},
+      {"amount": 1.5, "unit": "teaspoon", "ingredient": "vanilla", "taste_score": 4, "type": "Flavor"},
+      {"amount": 1.5, "unit": "cup", "ingredient": "all-purpose flour", "taste_score": 3, "type": "Binding"},
+      {"amount": 1.25, "unit": "teaspoon", "ingredient": "ground cinnamon", "taste_score": 4, "type": "Flavor"},
+      {"amount": 0.5, "unit": "teaspoon", "ingredient": "ground nutmeg", "taste_score": 3, "type": "Flavor"},
+      {"amount": 1, "unit": "teaspoon", "ingredient": "baking soda", "taste_score": 3, "type": "Rising"},
+      {"amount": 0.25, "unit": "teaspoon", "ingredient": "salt", "taste_score": 2, "type": "Seasoning"},
+      {"amount": 0.75, "unit": "cup", "ingredient": "mini semi-sweet chocolate chips", "taste_score": 5, "type": "Add-in"}
+    ]
+},
+{
+    "name": "Pumpkin-Pie-Cookies" ,
+      "ingredients": [
+      {"amount": 1, "unit": "package", "ingredient": "sugar cookie mix", "taste_score": 3, "type": "Binding"},
+      {"amount": 3, "unit": "tablespoons", "ingredient": "cold margarine", "taste_score": 3, "type": "Fat"},
+      {"amount": 1, "unit": "package", "ingredient": "reduced-fat cream cheese, softened", "taste_score": 3, "type": "Fat"},
+      {"amount": 2, "unit": "tablespoons", "ingredient": "Splenda", "taste_score": 3, "type": "Sweetener"},
+      {"amount": 0.5, "unit": "cup", "ingredient": "canned pumpkin (not pumpkin pie mix)", "taste_score": 3, "type": "Flavor"},
+      {"amount": 0.5, "unit": "teaspoon", "ingredient": "pumpkin pie spice", "taste_score": 3, "type": "Seasoning"}
+    ]
+},
+    {
+    "name": "Grandmas-Oatmeal-Raisin-Cookies" ,
+      "ingredients": [
+      {"amount": 1.5, "unit": "cup", "ingredient": "quick-cooking rolled oats", "taste_score": 3, "type": "Texture"},
+      {"amount": 0.5, "unit": "cup", "ingredient": "all-purpose flour", "taste_score": 3, "type": "Binding"},
+      {"amount": 1, "unit": "teaspoon", "ingredient": "baking powder", "taste_score": 3, "type": "Rising"},
+      {"amount": 0.5, "unit": "teaspoon", "ingredient": "baking soda", "taste_score": 3, "type": "Rising"},
+      {"amount": 1, "unit": "teaspoon", "ingredient": "pumpkin pie spice", "taste_score": 3, "type": "Flavor"},
+      {"amount": 2, "unit": "tablespoons", "ingredient": "Splenda brown sugar", "taste_score": 3, "type": "Sweetener"},
+      {"amount": 0.33, "unit": "cup", "ingredient": "granulated Splenda", "taste_score": 3, "type": "Sweetener"},
+      {"amount": 2, "unit": "tablespoons", "ingredient": "reduced-calorie margarine, melted", "taste_score": 3, "type": "Fat"},
+      {"amount": 1, "unit": " ", "ingredient": "egg, slightly beaten", "taste_score": 3, "type": "Binding"},
+      {"amount": 0.5, "unit": "cup", "ingredient": "unsweetened applesauce", "taste_score": 3, "type": "Liquid"},
+      {"amount": 0.25, "unit": "cup", "ingredient": "fat-free plain yogurt", "taste_score": 3, "type": "Liquid"},
+      {"amount": 0.33, "unit": "cup", "ingredient": "raisins", "taste_score": 3, "type": "Add-in"}
+    ]
+},
+{
+    "name": "Chocolate-Chip-Carrot-Cookies-EDR" ,
+      "ingredients": [
+      {"amount": 0.75, "unit": "cup", "ingredient": "margarine, softened", "taste_score": 3, "type": "Fat"},
+      {"amount": 0.75, "unit": "cup", "ingredient": "stevia", "taste_score": 3, "type": "Sweetener"},
+      {"amount": 0.75, "unit": "cup", "ingredient": "brown sugar", "taste_score": 3, "type": "Sweetener"},
+      {"amount": 2, "unit": " ", "ingredient": "eggs", "taste_score": 3, "type": "Binding"},
+      {"amount": 1, "unit": "teaspoon", "ingredient": "vanilla extract", "taste_score": 3, "type": "Flavor"},
+      {"amount": 1, "unit": "cup", "ingredient": "shredded carrots", "taste_score": 3, "type": "Flavor"},
+      {"amount": 2, "unit": "cups", "ingredient": "quick-cooking oats", "taste_score": 3, "type": "Texture"},
+      {"amount": 1.75, "unit": "cup", "ingredient": "all-purpose flour", "taste_score": 3, "type": "Binding"},
+      {"amount": 1, "unit": "teaspoon", "ingredient": "baking soda", "taste_score": 3, "type": "Rising"},
+      {"amount": 0.5, "unit": "teaspoon", "ingredient": "salt", "taste_score": 3, "type": "Seasoning"},
+      {"amount": 0.75, "unit": "cup", "ingredient": "sugar-free chocolate chips", "taste_score": 3, "type": "Add-in"}
+    ]
+},
+{
+    "name": "Ginger-Spice-Chocolate-Cookies" ,
+      "ingredients": [
+      {"amount": 8, "unit": "tablespoons", "ingredient": "reduced-fat stick margarine, softened", "taste_score": 3, "type": "Fat"},
+      {"amount": 0.5, "unit": "cup", "ingredient": "dark brown sugar, packed", "taste_score": 3, "type": "Sweetener"},
+      {"amount": 0.25, "unit": "cup", "ingredient": "Splenda baking blend", "taste_score": 3, "type": "Sweetener"},
+      {"amount": 0.25, "unit": "cup", "ingredient": "molasses", "taste_score": 3, "type": "Flavor"},
+      {"amount": 1.5, "unit": "cup", "ingredient": "all-purpose flour", "taste_score": 3, "type": "Binding"},
+      {"amount": 1.25, "unit": "teaspoon", "ingredient": "ground ginger", "taste_score": 3, "type": "Flavor"},
+      {"amount": 1, "unit": "teaspoon", "ingredient": "cinnamon", "taste_score": 3, "type": "Flavor"},
+      {"amount": 0.25, "unit": "teaspoon", "ingredient": "ground cloves", "taste_score": 3, "type": "Flavor"},
+      {"amount": 0.25, "unit": "teaspoon", "ingredient": "ground nutmeg", "taste_score": 3, "type": "Flavor"},
+      {"amount": 1, "unit": "tablespoon", "ingredient": "unsweetened cocoa powder", "taste_score": 3, "type": "Flavor"},
+      {"amount": 1, "unit": "teaspoon", "ingredient": "baking soda", "taste_score": 3, "type": "Rising"},
+      {"amount": 0.75, "unit": "cup", "ingredient": "semisweet chocolate chips", "taste_score": 3, "type": "Add-in"}
+    ]
+},
+{
+    "name": "Lickety-Split-Lemon-Oaties-6652" ,
+      "ingredients": [
+      {"amount": 5, "unit": "tablespoon", "ingredient": "stick margarine", "taste_score": 3, "type": "Fat"},
+      {"amount": 0.25, "unit": "cup", "ingredient": "granulated sugar", "taste_score": 3, "type": "Sweetener"},
+      {"amount": 0.25, "unit": "cup", "ingredient": "packed light brown sugar", "taste_score": 3, "type": "Sweetener"},
+      {"amount": 2, "unit": " ", "ingredient": "egg whites", "taste_score": 3, "type": "Binding"},
+      {"amount": 1,"unit": "tablespoon", "ingredient": "grated lemon peel", "taste_score": 3, "type": "Flavor"},
+      {"amount": 1, "unit": "cup", "ingredient": "quick-cooking rolled oats", "taste_score": 3, "type": "Texture"},
+      {"amount": 0.5, "unit": "cup", "ingredient": "all-purpose flour", "taste_score": 3, "type": "Binding"}
+    ]
+},
+{
+    "name": "Fruity-Fingerprint-Cookies" ,
+      "ingredients": [
+      {"amount": 0.75, "unit": "cup", "ingredient": "sugar", "taste_score": 3, "type": "Sweetener"},
+      {"amount": 0.5, "unit": "cup", "ingredient": "margarine, light", "taste_score": 3, "type": "Fat"},
+      {"amount": 0.25, "unit": "cup", "ingredient": "liquid egg substitute", "taste_score": 3, "type": "Binding"},
+      {"amount": 2, "unit": "tablespoon", "ingredient": "vanilla extract", "taste_score": 3, "type": "Flavor"},
+      {"amount": 1.75, "unit": "cup", "ingredient": "all-purpose flour", "taste_score": 3, "type": "Binding"},
+      {"amount": 2, "unit": "tablespoon", "ingredient": "skim milk", "taste_score": 3, "type": "Liquid"},
+      {"amount": 0.5, "unit": "cup", "ingredient": "finely chopped walnuts", "taste_score": 3, "type": "Add-in"},
+      {"amount": 0.25, "unit": "cup", "ingredient": "sugar-free fruit preserves for filling", "taste_score": 3, "type": "Flavor"}
+    ]
+  },
+  {
+    "name": "Oatmeal-Chocolate-Chip-Cookies-204976" ,
+      "ingredients": [
+      {"amount": 1, "unit": "cup", "ingredient": "quick-cooking oats", "taste_score": 3, "type": "Texture"},
+      {"amount": 0.75, "unit": "cup", "ingredient": "whole wheat flour", "taste_score": 3, "type": "Binding"},
+      {"amount": 1.5, "unit": "teaspoon", "ingredient": "baking powder", "taste_score": 3, "type": "Rising"},
+      {"amount": 1, "unit": "teaspoon", "ingredient": "ground cinnamon", "taste_score": 3, "type": "Flavor"},
+      {"amount": 0.25, "unit": "teaspoon", "ingredient": "salt", "taste_score": 2, "type": "Seasoning"},
+      {"amount": 2, "unit": "tablespoons", "ingredient": "margarine, melted and cooled", "taste_score": 3, "type": "Fat"},
+      {"amount": 1, "unit": "teaspoon", "ingredient": "vanilla extract", "taste_score": 4, "type": "Flavor"},
+      {"amount": 1, "unit": "", "ingredient": "egg", "taste_score": 3, "type": "Binding"},
+      {"amount": 0.5, "unit": "cup", "ingredient": "honey", "taste_score": 3, "type": "Sweetener"},
+      {"amount": 0.5, "unit": "cup", "ingredient": "sugar-free chocolate chips", "taste_score": 5, "type": "Add-in"}
+    ]
+},
+{
+    "name": "Chocolate-Chip-Cloud-Cookies" ,
+      "ingredients": [
+      {"amount": 0.5, "unit": "cup", "ingredient": "rolled oats", "taste_score": 3, "type": "Texture"},
+      {"amount": 0.25, "unit": "cup", "ingredient": "margarine, softened", "taste_score": 3, "type": "Fat"},
+      {"amount": 0.5, "unit": "cup", "ingredient": "packed brown sugar", "taste_score": 3, "type": "Sweetener"},
+      {"amount": 0.5, "unit": "teaspoon", "ingredient": "baking soda", "taste_score": 3, "type": "Rising"},
+      {"amount": 0.125, "unit": "teaspoon", "ingredient": "salt", "taste_score": 2, "type": "Seasoning"},
+      {"amount": 0.5, "unit": "cup", "ingredient": "plain low-fat yogurt", "taste_score": 3, "type": "Liquid"},
+      {"amount": 1, "unit": "", "ingredient": "egg", "taste_score": 3, "type": "Binding"},
+      {"amount": 0.5, "unit": "teaspoon", "ingredient": "vanilla extract", "taste_score": 4, "type": "Flavor"},
+      {"amount": 1.25, "unit": "cup", "ingredient": "all-purpose flour", "taste_score": 3, "type": "Binding"},
+      {"amount": 1, "unit": "cup", "ingredient": "sugar-free chocolate chips", "taste_score": 5, "type": "Add-in"}
+    ]
+},
+{
+    "name": "Snickerdoodles" ,
+      "ingredients": [
+      {"amount": 1.75, "unit": "cup", "ingredient": "white whole wheat flour", "taste_score": 3, "type": "Binding"},
+      {"amount": 0.5, "unit": "teaspoon", "ingredient": "baking soda", "taste_score": 3, "type": "Rising"},
+      {"amount": 0.5, "unit": "teaspoon", "ingredient": "cream of tartar", "taste_score": 3, "type": "Seasoning"},
+      {"amount": 1, "unit": "cup", "ingredient": "sugar, divided", "taste_score": 3, "type": "Sweetener"},
+      {"amount": 0.25, "unit": "cup", "ingredient": "butter, softened", "taste_score": 3, "type": "Fat"},
+      {"amount": 3, "unit": "tablespoons", "ingredient": "fat-free milk", "taste_score": 3, "type": "Liquid"},
+      {"amount": 1, "unit": "teaspoon", "ingredient": "vanilla extract", "taste_score": 4, "type": "Flavor"},
+      {"amount": 1, "unit": "", "ingredient": "large egg", "taste_score": 3, "type": "Binding"},
+      {"amount": 2, "unit": "teaspoons", "ingredient": "cinnamon", "taste_score": 3, "type": "Flavor"}
+    ]
+},
+{
+    "name": "Fudgy-Chocolate-Cookies" ,
+      "ingredients": [
+      {"amount": 1, "unit": "cup", "ingredient": "all-purpose flour", "taste_score": 3, "type": "Binding"},
+      {"amount": 0.5, "unit": "teaspoon", "ingredient": "baking soda", "taste_score": 3, "type": "Rising"},
+      {"amount": 0.25, "unit": "cup", "ingredient": "margarine", "taste_score": 3, "type": "Fat"},
+      {"amount": 1, "unit": "cup", "ingredient": "brown sugar Splenda, packed", "taste_score": 3, "type": "Sweetener"},
+      {"amount": 0.33, "unit": "cup", "ingredient": "unsweetened cocoa powder", "taste_score": 3, "type": "Flavor"},
+      {"amount": 1, "unit": "", "ingredient": "egg", "taste_score": 3, "type": "Binding"},
+      {"amount": 2, "unit": "tablespoons", "ingredient": "fat-free milk", "taste_score": 3, "type": "Liquid"},
+      {"amount": 1, "unit": "teaspoon", "ingredient": "vanilla extract", "taste_score": 4, "type": "Flavor"},
+      {"amount": 0.5, "unit": "cup", "ingredient": "sugar-free chocolate chips", "taste_score": 5, "type": "Add-in"}
+    ]
+},
+{
+    "name": "Banana-Bread-Cookies" ,
+      "ingredients": [
+      {"amount": 0.5, "unit": "cup", "ingredient": "margarine, softened", "taste_score": 3, "type": "Fat"},
+      {"amount": 0.75, "unit": "cup", "ingredient": "firmly packed light brown sugar", "taste_score": 3, "type": "Sweetener"},
+      {"amount": 2, "unit": "", "ingredient": "ripe bananas, mashed", "taste_score": 3, "type": "Flavor"},
+      {"amount": 2, "unit": "", "ingredient": "eggs", "taste_score": 3, "type": "Binding"},
+      {"amount": 1, "unit": "teaspoon", "ingredient": "vanilla extract", "taste_score": 4, "type": "Flavor"},
+      {"amount": 1.25, "unit": "cup", "ingredient": "white wheat flour", "taste_score": 3, "type": "Binding"},
+      {"amount": 0.5, "unit": "teaspoon", "ingredient": "ground cinnamon", "taste_score": 3, "type": "Flavor"},
+      {"amount": 0.5, "unit": "teaspoon", "ingredient": "baking soda", "taste_score": 3, "type": "Rising"},
+      {"amount": 0.25, "unit": "teaspoon", "ingredient": "salt", "taste_score": 2, "type": "Seasoning"},
+      {"amount": 0.5, "unit": "cup", "ingredient": "chopped walnuts", "taste_score": 4, "type": "Add-in"}
+    ]
+},
+{
+    "name": "Pecan-Balls" ,
+      "ingredients": [
+      {"amount": 0.5, "unit": "cup", "ingredient": "all-purpose flour", "taste_score": 3, "type": "Binding"},
+      {"amount": 0.5, "unit": "cup", "ingredient": "whole-wheat pastry flour", "taste_score": 3, "type": "Binding"},
+      {"amount": 0.75, "unit": "cup", "ingredient": "finely chopped pecans", "taste_score": 4, "type": "Add-in"},
+      {"amount": 0.5, "unit": " ", "ingredient": "ground cinnamon", "taste_score": 3, "type": "Seasoning"},
+      {"amount": 0.125, "unit":"g", "ingredient": "salt", "taste_score": 2, "type": "Seasoning"},
+      {"amount": 0.33, "unit": "cup", "ingredient": "margarine", "taste_score": 3, "type": "Fat"},
+      {"amount": 0.5, "unit": "cup", "ingredient": "confectioners' sugar, plus more for dusting cookies", "taste_score": 3, "type": "Sweetener"},
+      {"amount": 1, "unit": " ", "ingredient": "egg white", "taste_score": 3, "type": "Binding"},
+      {"amount": 1,"unit": "teaspoon", "ingredient": "vanilla extract", "taste_score": 4, "type": "Flavor"}
+    ]
+},
+{
+    "name": "Brookies" ,
+      "ingredients": [
+      {"amount": 1, "unit": "cup", "ingredient": "all-purpose flour", "taste_score": 3, "type": "Binding"},
+      {"amount": 0.25, "unit": "teaspoon", "ingredient": "baking soda", "taste_score": 3, "type": "Rising"},
+      {"amount": 0.25, "unit": "cup", "ingredient": "light margarine", "taste_score": 3, "type": "Fat"},
+      {"amount": 0.5, "unit": "cup", "ingredient": "granulated sugar", "taste_score": 3, "type": "Sweetener"},
+      {"amount": 0.33, "unit": "cup", "ingredient": "unsweetened cocoa powder", "taste_score": 3, "type": "Flavor"},
+      {"amount": 0.25, "unit": "cup", "ingredient": "packed brown sugar", "taste_score": 3, "type": "Sweetener"},
+      {"amount": 0.25, "unit": "cup", "ingredient": "buttermilk", "taste_score": 3, "type": "Liquid"},
+      {"amount": 1, "unit": "teaspoon", "ingredient": "vanilla extract", "taste_score": 4, "type": "Flavor"},
+      {"amount": 1, "unit": "tablespoon", "ingredient": "confectioners' sugar", "taste_score": 3, "type": "Sweetener"}
+    ]
+},
+{
+    "name": "Black-and-White-Cookies-EDR" ,
+      "ingredients": [
+      {"amount": 1, "unit": "package", "ingredient": "sugar-free yellow cake mix", "taste_score": 3, "type": "Binding"},
+      {"amount": 0.66, "unit": "cup", "ingredient": "canola oil", "taste_score": 3, "type": "Fat"},
+      {"amount": 2, "unit":" ", "ingredient": "eggs", "taste_score": 3, "type": "Binding"},
+      {"amount": 0.5, "unit":"container", "ingredient": "sugar-free chocolate frosting", "taste_score": 3, "type": "Add-in"},
+      {"amount": 0.5, "unit":"container", "ingredient": "sugar-free vanilla frosting", "taste_score": 3, "type": "Add-in"}
+    ]
+},
+{
+    "name": "3-Ingredient-Peanut-Butter-Cookies" ,
+      "ingredients": [
+      {"amount": 1, "unit": "cup", "ingredient": "Splenda baking blend, plus extra for dipping glass", "taste_score": 3, "type": "Sweetener"},
+      {"amount": 1, "unit": "cup", "ingredient": "no-sugar-added creamy peanut butter", "taste_score": 4, "type": "Fat"},
+      {"amount": 1, "unit":" ", "ingredient": "large egg", "taste_score": 3, "type": "Binding"}
+    ]
+},
+    {
+  "name": "Cinnamon-Roll-Cookies-204986" ,
+      "ingredients": [
+    {"amount": 1, "unit": "cup", "ingredient": "quick-cooking oats", "taste_score": 3, "type": "Texture"},
+    {"amount": 0.75, "unit": "cup", "ingredient": "whole wheat flour", "taste_score": 3, "type": "Binding"},
+    {"amount": 2, "unit":"teaspoons", "ingredient": "ground cinnamon", "taste_score": 3, "type": "Flavor"},
+    {"amount": 1.5, "unit":"teaspoon", "ingredient": "baking powder", "taste_score": 3, "type": "Rising"},
+    {"amount": 0.25, "unit":"teaspoon", "ingredient": "salt", "taste_score": 2, "type": "Seasoning"},
+    {"amount": 2, "unit":"tablespoons", "ingredient": "margarine, melted and cooled", "taste_score": 3, "type": "Fat"},
+    {"amount": 1, "unit":" ", "ingredient": "egg", "taste_score": 3, "type": "Binding"},
+    {"amount": 1, "unit":"teaspoon", "ingredient": "vanilla extract", "taste_score": 4, "type": "Flavor"},
+    {"amount": 0.5, "unit":"cup", "ingredient": "sugar-free maple syrup", "taste_score": 3, "type": "Sweetener"},
+    {"amount": 2, "unit":"tablespoons", "ingredient": "reduced-fat cream cheese, softened", "taste_score": 3, "type": "Binding"},
+    {"amount": 2, "unit":"teaspoons", "ingredient": "low-fat milk", "taste_score": 2, "type": "Liquid"},
+    {"amount": 2, "unit":"tablespoons", "ingredient": "confectioners' sugar", "taste_score": 5, "type": "Sweetener"},
+    {"amount": 0.25, "unit":"teaspoon", "ingredient": "vanilla extract", "taste_score": 4, "type": "Flavor"}
+  ]
+},
+{
+  "name": "no-sugar-added-vegan-oatmeal-cookies",
+  "ingredients": [
+    {"amount": 1, "unit": "cup", "ingredient": "quick-cooking oats (see Tip)", "taste_score": 3, "type": "Texture"},
+    {"amount": 0.75, "unit": "cup", "ingredient": "almond flour or almond meal", "taste_score": 3, "type": "Binding"},
+    {"amount": 0.75, "unit": "teaspoon", "ingredient": "ground cinnamon", "taste_score": 3, "type": "Seasoning"},
+    {"amount": 0.25, "unit": "teaspoon", "ingredient": "salt", "taste_score": 2, "type": "Seasoning"},
+    {"amount": 2, "unit": "medium", "ingredient": "ripe bananas mashed", "taste_score": 4, "type": "Binding"},
+    {"amount": 0.5, "unit": "cup", "ingredient": "almond butter or natural peanut butter", "taste_score": 4, "type": "Fat"},
+    {"amount": 1, "unit": "teaspoon", "ingredient": "vanilla extract", "taste_score": 4, "type": "Flavor"},
+    {"amount": 0.75, "unit": "cup", "ingredient": "raisins or chopped dates", "taste_score": 3, "type": "Add-in"}
+  ]
+},
+{
+  "name": "peanut-butter-chocolate-chip-cookies",
+  "ingredients": [
+    {"amount": 1, "unit": "large", "ingredient": "egg", "taste_score": 4, "type": "Binding"},
+    {"amount": 0.25, "unit": "teaspoon", "ingredient": "salt", "taste_score": 2, "type": "Seasoning"},
+    {"amount": 1, "unit": "cup", "ingredient": "smooth natural peanut butter", "taste_score": 4, "type": "Binding"},
+    {"amount": 0.5, "unit": "cup", "ingredient": "light brown sugar", "taste_score": 3, "type": "Sweetener"},
+    {"amount": 0.5, "unit": "cup", "ingredient": "semisweet chocolate chips", "taste_score": 4, "type": "Add-in"}
+  ]
+},
+{
+  "name": "cinnamon-raisin-oatmeal-cookies",
+  "ingredients": [
+    {"amount": 1, "unit": "cup", "ingredient": "white whole-wheat flour", "taste_score": 3, "type": "Binding"},
+    {"amount": 1, "unit": "teaspoon", "ingredient": "baking powder", "taste_score": 3, "type": "Rising"},
+    {"amount": 1, "unit": "teaspoon", "ingredient": "ground cinnamon", "taste_score": 3, "type": "Seasoning"},
+    {"amount": 0.5, "unit": "teaspoon", "ingredient": "salt", "taste_score": 2, "type": "Seasoning"},
+    {"amount": 0.75, "unit": "cup", "ingredient": "brown sugar", "taste_score": 3, "type": "Sweetener"},
+    {"amount": 6, "unit": "tablespoons", "ingredient": "unsalted butter melted", "taste_score": 4, "type": "Fat"},
+    {"amount": 1, "unit": "large", "ingredient": "egg", "taste_score": 3, "type": "Binding"},
+    {"amount": 1.5, "unit": "teaspoons", "ingredient": "vanilla extract", "taste_score": 4, "type": "Flavor"},
+    {"amount": 1, "unit": "cup", "ingredient": "old-fashioned rolled oats", "taste_score": 3, "type": "Texture"},
+    {"amount": 0.5, "unit": "cup", "ingredient": "raisins", "taste_score": 3, "type": "Add-in"}
+  ]
+},
+{
+  "name": "pumpkin-brownies",
+  "ingredients": [
+    {"amount": 0.75, "unit": "cup", "ingredient": "whole-wheat pastry flour", "taste_score": 3, "type": "Binding"},
+    {"amount": 0.25, "unit": "cup", "ingredient": "cocoa powder", "taste_score": 3, "type": "Flavor"},
+    {"amount": 1.5, "unit": "teaspoons", "ingredient": "ground cinnamon", "taste_score": 3, "type": "Seasoning"},
+    {"amount": 0.5, "unit": "teaspoon", "ingredient": "baking soda", "taste_score": 2, "type": "Rising"},
+    {"amount": 0.5, "unit": "teaspoon", "ingredient": "ground ginger", "taste_score": 2, "type": "Seasoning"},
+    {"amount": 0.25, "unit": "teaspoon", "ingredient": "salt", "taste_score": 2, "type": "Seasoning"},
+    {"amount": 0.25, "unit": "teaspoon", "ingredient": "ground nutmeg", "taste_score": 2, "type": "Seasoning"},
+    {"amount": 0.25, "unit": "teaspoon", "ingredient": "ground cloves", "taste_score": 2, "type": "Seasoning"},
+    {"amount": 0.75, "unit": "cup", "ingredient": "granulated sugar", "taste_score": 3, "type": "Sweetener"},
+    {"amount": 0.5, "unit": "cup", "ingredient": "unseasoned pumpkin puree", "taste_score": 4, "type": "Binding"},
+    {"amount": 1, "unit": "large", "ingredient": "egg at room temperature", "taste_score": 3, "type": "Binding"},
+    {"amount": 2, "unit": "tablespoons", "ingredient": "unsalted butter melted and cooled to room temperature", "taste_score": 4, "type": "Fat"},
+    {"amount": 2, "unit": "tablespoons", "ingredient": "vegetable oil", "taste_score": 4, "type": "Fat"},
+    {"amount": 0.5, "unit": "teaspoon", "ingredient": "vanilla extract", "taste_score": 4, "type": "Flavor"},
+    {"amount": 0.25, "unit": "cup", "ingredient": "mini chocolate chips", "taste_score": 3, "type": "Add-in"}
+  ]
+},
+{
+  "name": "flourless-chocolate-cookies",
+  "ingredients": [
+    {"amount": 1, "unit": "cup", "ingredient": "confectioners' sugar", "taste_score": 3, "type": "Sweetener"},
+    {"amount": 0.25, "unit": "cup", "ingredient": "unsweetened cocoa powder", "taste_score": 3, "type": "Flavor"},
+    {"amount": 0.25, "unit": "teaspoon", "ingredient": "salt", "taste_score": 2, "type": "Seasoning"},
+    {"amount": 2, "unit": "large", "ingredient": "egg whites", "taste_score": 3, "type": "Binding"},
+    {"amount": 1, "unit": "teaspoon", "ingredient": "vanilla extract", "taste_score": 4, "type": "Flavor"},
+    {"amount": 0.5, "unit": "cup", "ingredient": "bittersweet chocolate chips", "taste_score": 3, "type": "Add-in"}
+  ]
+},
+{
+  "name": "fresh-apple-squares",
+  "ingredients": [
+    {"amount": 1.5, "unit": "cups", "ingredient": "all-purpose flour", "taste_score": 3, "type": "Binding"},
+    {"amount": 1, "unit": "cup", "ingredient": "old-fashioned oats", "taste_score": 3, "type": "Texture"},
+    {"amount": 1, "unit": "cup", "ingredient": "packed light brown sugar", "taste_score": 3, "type": "Sweetener"},
+    {"amount": 1, "unit": "teaspoon", "ingredient": "grated lemon zest", "taste_score": 4, "type": "Flavor"},
+    {"amount": 0.75, "unit": "teaspoon", "ingredient": "baking powder", "taste_score": 3, "type": "Rising"},
+    {"amount": 0.5, "unit": "teaspoon", "ingredient": "salt", "taste_score": 2, "type": "Seasoning"},
+    {"amount": 0.5, "unit": "teaspoon", "ingredient": "ground cinnamon", "taste_score": 3, "type": "Seasoning"},
+    {"amount": 0.25, "unit": "teaspoon", "ingredient": "ground nutmeg", "taste_score": 2, "type": "Seasoning"},
+    {"amount": 3, "unit": "tablespoons", "ingredient": "canola oil", "taste_score": 3, "type": "Fat"},
+    {"amount": 0.25, "unit": "cup", "ingredient": "apple juice", "taste_score": 3, "type": "Liquid"},
+    {"amount": 2, "unit": "medium", "ingredient": "tart apples", "taste_score": 4, "type": "Texture"},
+    {"amount": 0.25, "unit": "cup", "ingredient": "coarsely chopped walnuts", "taste_score": 3, "type": "Add-in"}
+  ]
+},
+{
+  "name": "cranberry-coconut-oatmeal-cookies",
+  "ingredients": [
+    {"amount": 1, "unit": "large", "ingredient": "egg", "taste_score": 4, "type": "Binding"},
+    {"amount": 0.5, "unit": "cup", "ingredient": "granulated sugar", "taste_score": 3, "type": "Sweetener"},
+    {"amount": 0.75, "unit": "cup", "ingredient": "rolled oats", "taste_score": 3, "type": "Texture"},
+    {"amount": 3.5, "unit": "tablespoons", "ingredient": "unsweetened coconut flakes crushed", "taste_score": 4, "type": "Texture"},
+    {"amount": 2, "unit": "tablespoons", "ingredient": "finely chopped dried cranberries", "taste_score": 3, "type": "Add-in"},
+    {"amount": 2, "unit": "teaspoons", "ingredient": "melted butter", "taste_score": 3, "type": "Fat"},
+    {"amount": 0.25, "unit": "teaspoon", "ingredient": "salt", "taste_score": 2, "type": "Seasoning"},
+    {"amount": 0.25, "unit": "teaspoon", "ingredient": "vanilla extract", "taste_score": 4, "type": "Flavor"},
+    {"amount": 0.25, "unit": "teaspoon", "ingredient": "lemon extract", "taste_score": 3, "type": "Flavor"}
+  ]
+},
+{
+    "name": "pumpkin-snickerdoodles",
+    "ingredients": [
+      {"amount": 1, "unit": "cup", "ingredient": "all-purpose flour", "taste_score": 3, "type": "Binding"},
+      {"amount": 0.75, "unit": "cup", "ingredient": "whole-wheat pastry flour", "taste_score": 3, "type": "Binding"},
+      {"amount": 1, "unit": "teaspoon", "ingredient": "baking powder", "taste_score": 3, "type": "Rising"},
+      {"amount": 0.5, "unit": "teaspoon", "ingredient": "salt", "taste_score": 2, "type": "Seasoning"},
+      {"amount": 0.5, "unit": "cup", "ingredient": "unsalted butter softened", "taste_score": 3, "type": "Fat"},
+      {"amount": 0.25, "unit": "cup", "ingredient": "packed brown sugar", "taste_score": 3, "type": "Sweetener"},
+      {"amount": 0.25, "unit": "cup", "ingredient": "granulated sugar", "taste_score": 3, "type": "Sweetener"},
+      {"amount": 0.5, "unit": "cup", "ingredient": "unseasoned pumpkin puree", "taste_score": 4, "type": "Binding"},
+      {"amount": 1, "unit": "teaspoon", "ingredient": "vanilla extract", "taste_score": 4, "type": "Flavor"},
+      {"amount": 1, "unit": "large", "ingredient": "egg", "taste_score": 3, "type": "Binding"},
+      {"amount": 2, "unit": "teaspoons", "ingredient": "pumpkin pie spice", "taste_score": 3, "type": "Seasoning"}
+    ]
+  },
+  {
+    "name": "no-bake-vegan-date-brownies",
+    "ingredients": [
+      {"amount": 1, "unit": "cup", "ingredient": "chopped Medjool dates", "taste_score": 4, "type": "Texture"},
+      {"amount": 1, "unit": "cup", "ingredient": "rolled oats", "taste_score": 3, "type": "Texture"},
+      {"amount": 1, "unit": "cup", "ingredient": "almond butter", "taste_score": 4, "type": "Fat"},
+      {"amount": 0.25, "unit": "cup", "ingredient": "unsweetened cocoa powder", "taste_score": 3, "type": "Flavor"},
+      {"amount": 0.25, "unit": "teaspoon", "ingredient": "salt", "taste_score": 2, "type": "Seasoning"}
+    ]
+  },
+  {
+    "name": "bevs-chocolate-chip-cookies",
+    "ingredients": [
+      {"amount": 0.75, "unit": "cup", "ingredient": "rolled oats", "taste_score": 3, "type": "Texture"},
+      {"amount": 1, "unit": "cup", "ingredient": "whole-wheat flour", "taste_score": 3, "type": "Binding"},
+      {"amount": 0.5, "unit": "teaspoon", "ingredient": "baking soda", "taste_score": 3, "type": "Rising"},
+      {"amount": 0.5, "unit": "teaspoon", "ingredient": "salt", "taste_score": 2, "type": "Seasoning"},
+      {"amount": 0.25, "unit": "cup", "ingredient": "butter softened", "taste_score": 3, "type": "Fat"},
+      {"amount": 0.25, "unit": "cup", "ingredient": "canola oil", "taste_score": 4, "type": "Fat"},
+      {"amount": 0.5, "unit": "cup", "ingredient": "granulated sugar", "taste_score": 3, "type": "Sweetener"},
+      {"amount": 0.5, "unit": "cup", "ingredient": "brown sugar", "taste_score": 3, "type": "Sweetener"},
+      {"amount": 1, "unit": "large", "ingredient": "egg", "taste_score": 3, "type": "Binding"},
+      {"amount": 1, "unit": "teaspoon", "ingredient": "vanilla extract", "taste_score": 4, "type": "Flavor"},
+      {"amount": 1, "unit": "cup", "ingredient": "chocolate chips", "taste_score": 3, "type": "Add-in"}
+    ]
+  },
+  {
+    "name": "cranberry-crumble-bars",
+    "ingredients": [
+      {"amount": 2, "unit": "cups", "ingredient": "cranberries", "taste_score": 3, "type": "Add-in"},
+      {"amount": 1, "unit": "", "ingredient": "ajuice orange ", "taste_score": 4, "type": "Flavor"},
+      {"amount": 6, "unit": "tablespoons", "ingredient": "granulated sugar", "taste_score": 3, "type": "Sweetener"},
+      {"amount": 1.5, "unit": "tablespoons", "ingredient": "cornstarch", "taste_score": 2, "type": "Flavor"},
+      {"amount": 2, "unit": "teaspoons", "ingredient": "almond extract", "taste_score": 4, "type": "Flavor"},
+      {"amount": 0.25, "unit": "teaspoon", "ingredient": "ground cinnamon", "taste_score": 3, "type": "Seasoning"},
+      {"amount": 1.5, "unit": "cups", "ingredient": "all-purpose flour", "taste_score": 3, "type": "Binding"},
+      {"amount": 1.5, "unit": "cups", "ingredient": "almond flour", "taste_score": 3, "type": "Binding"},
+      {"amount": 0.5, "unit": "cup", "ingredient": "granulated sugar", "taste_score": 3, "type": "Sweetener"},
+      {"amount": 1, "unit": "teaspoon", "ingredient": "baking powder", "taste_score": 3, "type": "Rising"},
+      {"amount": 0.25, "unit": "teaspoon", "ingredient": "salt", "taste_score": 2, "type": "Seasoning"},
+      {"amount": 0.25, "unit": "teaspoon", "ingredient": "ground nutmeg", "taste_score": 2, "type": "Seasoning"},
+      {"amount": 0.5, "unit": "", "ingredient": "orange", "taste_score": 4, "type": "Flavor"},
+      {"amount": 4, "unit": "tablespoons", "ingredient": "cold unsalted butter cubed", "taste_score": 3, "type": "Fat"},
+      {"amount": 2, "unit": "large", "ingredient": "egg whites", "taste_score": 3, "type": "Binding"},
+      {"amount": 1.5, "unit": "teaspoons", "ingredient": "vanilla extract", "taste_score": 4, "type": "Flavor"}
+     
+    ]
+  },
+  {
+    "name": "meringues",
+    "ingredients": [
+      {"amount": 3, "unit": "large", "ingredient": "egg whites ", "taste_score": 4, "type": "Binding"},
+      {"amount": 0.25, "unit": "teaspoon", "ingredient": "cream of tartar", "taste_score": 2, "type": "Rising"},
+      {"amount": 0.75, "unit": "cup", "ingredient": "sugar", "taste_score": 3, "type": "Sweetener"},
+      {"amount": 0.5, "unit": "teaspoon", "ingredient": "vanilla extract", "taste_score": 4, "type": "Flavor"}
+    ]
+  },
+  {
+    "name": "4-ingredient-peanut-butter-cookie",
+    "ingredients": [
+      {"amount": 1, "unit": "cup", "ingredient": "sugar", "taste_score": 3, "type": "Sweetener"},
+      {"amount": 1, "unit": "cup", "ingredient": "peanut butter", "taste_score": 5, "type": "Binding"},
+      {"amount": 1, "unit": " ", "ingredient": "egg", "taste_score": 4, "type": "Binding"}
+
+    ]
+  },
+  {
+    "name": "spiced-pumpkin-cookies",
+    "ingredients": [
+      {"amount": 0.67, "unit": "cup", "ingredient": "whole-wheat pastry flour", "taste_score": 3, "type": "Binding"},
+      {"amount": 0.67, "unit": "cup", "ingredient": "all-purpose flour", "taste_score": 3, "type": "Binding"},
+      {"amount": 1, "unit": "teaspoon", "ingredient": "baking powder", "taste_score": 3, "type": "Rising"},
+      {"amount": 0.5, "unit": "teaspoon", "ingredient": "baking soda", "taste_score": 3, "type": "Rising"},
+      {"amount": 0.5, "unit": "teaspoon", "ingredient": "salt", "taste_score": 2, "type": "Seasoning"},
+      {"amount": 1, "unit": "teaspoon", "ingredient": "ground cinnamon", "taste_score": 4, "type": "Seasoning"},
+      {"amount": 0.5, "unit": "teaspoon", "ingredient": "ground ginger", "taste_score": 3, "type": "Flavor"},
+      {"amount": 0.25, "unit": "teaspoon", "ingredient": "ground allspice", "taste_score": 3, "type": "Flavor"},
+      {"amount": 0.25, "unit": "teaspoon", "ingredient": "freshly grated nutmeg", "taste_score": 3, "type": "Flavor"},
+      {"amount": 2, "unit": "large", "ingredient": "eggs", "taste_score": 3, "type": "Binding"},
+      {"amount": 0.75, "unit": "cup", "ingredient": "packed light brown sugar", "taste_score": 3, "type": "Sweetener"},
+      {"amount": 0.75, "unit": "cup", "ingredient": "canned unseasoned pumpkin puree", "taste_score": 4, "type": "Binding"},
+      {"amount": 0.25, "unit": "cup", "ingredient": "canola oil", "taste_score": 3, "type": "Fat"},
+      {"amount": 0.25, "unit": "cup", "ingredient": "dark molasses", "taste_score": 3, "type": "Flavor"},
+      {"amount": 1, "unit": "cup", "ingredient": "raisins", "taste_score": 3, "type": "Add-in"}
+    ]
+  },
+  {
+    "name": "apple-oatmeal-cookies",
+    "ingredients": [
+      {"amount": 1, "unit": "cup", "ingredient": "old-fashioned oats", "taste_score": 3, "type": "Texture"},
+      {"amount": 0.5, "unit": "cup", "ingredient": "chopped pecans", "taste_score": 4, "type": "Add-in"},
+      {"amount": 1, "unit": "cup", "ingredient": "whole-wheat pastry flour", "taste_score": 3, "type": "Binding"},
+      {"amount": 0.5, "unit": "teaspoon", "ingredient": "baking soda", "taste_score": 3, "type": "Rising"},
+      {"amount": 0.25, "unit": "teaspoon", "ingredient": "baking powder", "taste_score": 3, "type": "Rising"},
+      {"amount": 0.25, "unit": "teaspoon", "ingredient": "salt", "taste_score": 2, "type": "Seasoning"},
+      {"amount": 0.5, "unit": "teaspoon", "ingredient": "ground cinnamon divided", "taste_score": 3, "type": "Seasoning"},
+      {"amount": 0.13, "unit": "teaspoon", "ingredient": "ground nutmeg", "taste_score": 2, "type": "Seasoning"},
+      {"amount": 2, "unit": "large", "ingredient": "egg whites", "taste_score": 3, "type": "Binding"},
+      {"amount": 0.5, "unit": "cup", "ingredient": "coarsely shredded peeled apple", "taste_score": 4, "type": "Texture"},
+      {"amount": 0.5, "unit": "cup", "ingredient": "packed light brown sugar", "taste_score": 3, "type": "Sweetener"},
+      {"amount": 0.25, "unit": "cup", "ingredient": "apple butter", "taste_score": 3, "type": "Flavor"},
+      {"amount": 4, "unit": "tablespoons", "ingredient": "granulated sugar divided", "taste_score": 3, "type": "Sweetener"},
+      {"amount": 2, "unit": "tablespoons", "ingredient": "canola oil", "taste_score": 3, "type": "Fat"},
+      {"amount": 0.5, "unit": "teaspoon", "ingredient": "vanilla extract", "taste_score": 4, "type": "Flavor"},
+      {"amount": 0.5, "unit": "cup", "ingredient": "diced dried apples", "taste_score": 3, "type": "Add-in"}
+    ]
+  },
+  {
+    "name": "lemon-squares",
+    "ingredients": [
+      {"amount": 1, "unit": "cup", "ingredient": "white whole-wheat flour", "taste_score": 3, "type": "Binding"},
+      {"amount": 0.33, "unit": "cup", "ingredient": "confectioners sugar", "taste_score": 3, "type": "Sweetener"},
+      {"amount": 3, "unit": "tablespoons", "ingredient": "cornstarch", "taste_score": 2, "type": "Flavor"},
+      {"amount": 0.25, "unit": "teaspoon", "ingredient": "salt", "taste_score": 2, "type": "Seasoning"},
+      {"amount": 3, "unit": "tablespoons", "ingredient": "canola oil", "taste_score": 3, "type": "Fat"},
+      {"amount": 2, "unit": "tablespoons", "ingredient": "butter softened", "taste_score": 3, "type": "Fat"},
+      {"amount": 0.5, "unit": "cup", "ingredient": "granulated sugar", "taste_score": 3, "type": "Sweetener"},
+      {"amount": 3, "unit": "tablespoons", "ingredient": "cornstarch", "taste_score": 2, "type": "Flavor"},
+      {"amount": 0.25, "unit": "teaspoon", "ingredient": "baking powder", "taste_score": 2, "type": "Rising"},
+      {"amount": 0.13, "unit": "teaspoon", "ingredient": "salt", "taste_score": 2, "type": "Seasoning"},
+      {"amount": 2, "unit": "large", "ingredient": "eggs", "taste_score": 3, "type": "Binding"},
+      {"amount": 0.67, "unit": "cup", "ingredient": "water", "taste_score": 2, "type": "Liquid"},
+      {"amount": 0.33, "unit": "cup", "ingredient": "lemon juice", "taste_score": 4, "type": "Flavor"},
+      {"amount": 1, "unit": "teaspoon", "ingredient": "Lemon zest for garnish", "taste_score": 4, "type": "Flavor"}
+    ]
+  },
+  {
+    "name": "lemon-raspberry-blondies",
+    "ingredients": [
+      {"amount": 0.75, "unit": "cup", "ingredient": "granulated sugar", "taste_score": 3, "type": "Sweetener"},
+      {"amount": 0.25, "unit": "cup", "ingredient": "canola oil", "taste_score": 3, "type": "Fat"},
+      {"amount": 4, "unit": "tablespoons", "ingredient": "unsalted butter (1/2 stick) softened", "taste_score": 3, "type": "Fat"},
+      {"amount": 2, "unit": "large", "ingredient": "eggs", "taste_score": 3, "type": "Binding"},
+      {"amount": 1, "unit": "tablespoons", "ingredient": "lemon", "taste_score": 4, "type": "Flavor"},
+      {"amount": 2, "unit": "tablespoons", "ingredient": "lemon juice", "taste_score": 4, "type": "Flavor"},
+      {"amount": 1, "unit": "teaspoon", "ingredient": "vanilla extract", "taste_score": 4, "type": "Flavor"},
+      {"amount": 0.75, "unit": "cup", "ingredient": "whole-wheat flour preferably white whole-wheat", "taste_score": 3, "type": "Binding"},
+      {"amount": 0.5, "unit": "teaspoon", "ingredient": "baking powder", "taste_score": 3, "type": "Rising"},
+      {"amount": 0.25, "unit": "teaspoon", "ingredient": "salt", "taste_score": 2, "type": "Seasoning"},
+      {"amount": 1, "unit": "cup", "ingredient": "fresh raspberries", "taste_score": 4, "type": "Add-in"}
+    ]
+  },
+  {
+    "name": "mini-gingerbread-house-cookies",
+    "ingredients": [
+      {"amount": 1.5, "unit": "cups", "ingredient": "all-purpose flour", "taste_score": 3, "type": "Binding"},
+      {"amount": 1.5, "unit": "cups", "ingredient": "whole-wheat pastry flour", "taste_score": 3, "type": "Binding"},
+      {"amount": 0.75, "unit": "teaspoon", "ingredient": "baking soda", "taste_score": 3, "type": "Rising"},
+      {"amount": 0.5, "unit": "teaspoon", "ingredient": "ground cinnamon", "taste_score": 3, "type": "Seasoning"},
+      {"amount": 0.5, "unit": "teaspoon", "ingredient": "ground ginger", "taste_score": 3, "type": "Seasoning"},
+      {"amount": 0.25, "unit": "teaspoon", "ingredient": "ground cloves", "taste_score": 3, "type": "Seasoning"},
+      {"amount": 0.25, "unit": "teaspoon", "ingredient": "salt", "taste_score": 2, "type": "Seasoning"},
+      {"amount": 4, "unit": "tablespoons", "ingredient": "butter at room temperature", "taste_score": 3, "type": "Fat"},
+      {"amount": 2, "unit": "tablespoons", "ingredient": "canola oil", "taste_score": 3, "type": "Fat"},
+      {"amount": 0.5, "unit": "cup", "ingredient": "molasses", "taste_score": 3, "type": "Flavor"},
+      {"amount": 0.5, "unit": "cup", "ingredient": "sugar", "taste_score": 3, "type": "Sweetener"},
+      {"amount": 1, "unit": "large", "ingredient": "egg", "taste_score": 3, "type": "Binding"},
+      {"amount": 1, "unit": "small", "ingredient": "egg white", "taste_score": 2, "type": "Binding"},
+      {"amount": 0.25, "unit": "teaspoon", "ingredient": "cream of tartar", "taste_score": 2, "type": "Rising"}
+      
+    ]
+  },
+  {
+    "name": "soft-sugar-cookies",
+    "ingredients": [
+      {"amount": 0.5, "unit": "cup", "ingredient": "butter softened", "taste_score": 3, "type": "Fat"},
+      {"amount": 4, "unit": "ounces", "ingredient": "cream cheese softened", "taste_score": 3, "type": "Fat"},
+      {"amount": 1.75, "unit": "cups", "ingredient": "sugar (see Tips)", "taste_score": 3, "type": "Sweetener"},
+      {"amount": 1, "unit": "teaspoon", "ingredient": "baking soda", "taste_score": 2, "type": "Rising"},
+      {"amount": 1, "unit": "teaspoon", "ingredient": "cream of tartar", "taste_score": 2, "type": "Rising"},
+      {"amount": 0.13, "unit": "teaspoon", "ingredient": "salt", "taste_score": 2, "type": "Seasoning"},
+      {"amount": 3, "unit": " ", "ingredient": "egg yolks", "taste_score": 3, "type": "Binding"},
+      {"amount": 0.5, "unit": "teaspoon", "ingredient": "vanilla", "taste_score": 3, "type": "Flavor"},
+      {"amount": 1.25, "unit": "cups", "ingredient": "all-purpose flour", "taste_score": 3, "type": "Binding"},
+      {"amount": 0.5, "unit": "cup", "ingredient": "white whole-wheat flour", "taste_score": 3, "type": "Binding"}
+    ]
+  },
+  {
+    "name": "brownie-cookies",
+    "ingredients": [
+      {"amount": 1, "unit": "cup", "ingredient": "all-purpose flour", "taste_score": 3, "type": "Binding"},
+      {"amount": 0.25, "unit": "teaspoon", "ingredient": "baking soda", "taste_score": 2, "type": "Rising"},
+      {"amount": 0.25, "unit": "cup", "ingredient": "butter", "taste_score": 3, "type": "Fat"},
+      {"amount": 0.67, "unit": "cup", "ingredient": "granulated sugar", "taste_score": 3, "type": "Sweetener"},
+      {"amount": 0.33, "unit": "cup", "ingredient": "unsweetened cocoa powder", "taste_score": 3, "type": "Flavor"},
+      {"amount": 0.25, "unit": "cup", "ingredient": "packed brown sugar", "taste_score": 3, "type": "Sweetener"},
+      {"amount": 0.25, "unit": "cup", "ingredient": "buttermilk", "taste_score": 2, "type": "Liquid"},
+      {"amount": 1, "unit": "teaspoon", "ingredient": "vanilla", "taste_score": 3, "type": "Flavor"},
+      {"amount": 1, "unit": "tablespoon", "ingredient": "sifted powdered sugar", "taste_score": 4, "type": "Sweetener"}
+    ]
+  },
+  {
+    "name": "peanut-butter-swirl-chocolate-brownies",
+    "ingredients": [
+      {"amount": 0.25, "unit": "cup", "ingredient": "butter", "taste_score": 3, "type": "Fat"},
+      {"amount": 0.75, "unit": "cup", "ingredient": "granulated sugar (see Tip)", "taste_score": 3, "type": "Sweetener"},
+      {"amount": 0.33, "unit": "cup", "ingredient": "cold water", "taste_score": 2, "type": "Liquid"},
+      {"amount": 3, "unit": "", "ingredient": "refrigerated or frozen egg", "taste_score": 3, "type": "Binding"},
+      {"amount": 0.25, "unit": "cup", "ingredient": "canola oil", "taste_score": 3, "type": "Fat"},
+      {"amount": 1, "unit": "teaspoon", "ingredient": "vanilla", "taste_score": 3, "type": "Flavor"},
+      {"amount": 1.25, "unit": "cups", "ingredient": "whole-wheat pastry flour divided", "taste_score": 3, "type": "Binding"},
+      {"amount": 1, "unit": "teaspoon", "ingredient": "baking powder", "taste_score": 2, "type": "Rising"},
+      {"amount": 0.25, "unit": "cup", "ingredient": "creamy peanut butter", "taste_score": 5, "type": "Add-in"},
+      {"amount": 0.5, "unit": "cup", "ingredient": "unsweetened cocoa powder", "taste_score": 3, "type": "Flavor"},
+      {"amount": 0.25, "unit": "cup", "ingredient": "miniature semisweet chocolate pieces", "taste_score": 4, "type": "Add-in"}
+    ]
+  },
+  {
+    "name": "no-bake-peanut-butter-cookies",
+    "ingredients": [
+      {"amount": 0.75, "unit": "cup", "ingredient": "natural peanut butter", "taste_score": 5, "type": "Binding"},
+      {"amount": 0.33, "unit": "cup", "ingredient": "brown sugar", "taste_score": 4, "type": "Sweetener"},
+      {"amount": 0.25, "unit": "cup", "ingredient": "butter", "taste_score": 3, "type": "Fat"},
+      {"amount": 0.25, "unit": "cup", "ingredient": "low-fat milk", "taste_score": 2, "type": "Liquid"},
+      {"amount": 1.75, "unit": "cups", "ingredient": "rolled oats", "taste_score": 3, "type": "Texture"},
+      {"amount": 1, "unit": "teaspoon", "ingredient": "vanilla extract", "taste_score": 4, "type": "Flavor"},
+      {"amount": 0.5, "unit": "cup", "ingredient": "chocolate chips", "taste_score": 3, "type": "Add-in"}
+    ]
+  },
+  {
+    "name": "lemon-thins",
+    "ingredients": [
+      {"amount": 1.25, "unit": "cups", "ingredient": "whole-wheat pastry flour", "taste_score": 3, "type": "Binding"},
+      {"amount": 0.33, "unit": "cup", "ingredient": "cornstarch", "taste_score": 3, "type": "Flavor"},
+      {"amount": 1.5, "unit": "teaspoons", "ingredient": "baking powder", "taste_score": 3, "type": "Rising"},
+      {"amount": 0.25, "unit": "teaspoon", "ingredient": "salt", "taste_score": 2, "type": "Seasoning"},
+      {"amount": 0.75, "unit": "cup", "ingredient": "sugar divided", "taste_score": 3, "type": "Sweetener"},
+      {"amount": 2, "unit": "tablespoons", "ingredient": "butter softened", "taste_score": 3, "type": "Fat"},
+      {"amount": 2, "unit": "tablespoons", "ingredient": "canola oil", "taste_score": 3, "type": "Fat"},
+      {"amount": 1, "unit": "large", "ingredient": "egg white", "taste_score": 3, "type": "Binding"},
+      {"amount": 1.5, "unit": "teaspoons", "ingredient": "freshly grated lemon zest", "taste_score": 4, "type": "Flavor"},
+      {"amount": 1, "unit": "teaspoon", "ingredient": "vanilla extract", "taste_score": 4, "type": "Flavor"},
+      {"amount": 3, "unit": "tablespoons", "ingredient": "lemon juice", "taste_score": 4, "type": "Flavor"}
+    ]
+  },
+  {
+    "name": "apple-cinnamon-fruit-bars",
+    "ingredients": [
+      {"amount": 1, "unit": "cup", "ingredient": "chopped nuts", "taste_score": 3, "type": "Add-in"},
+      {"amount": 0.75, "unit": "cup", "ingredient": "whole-wheat pastry flour", "taste_score": 3, "type": "Binding"},
+      {"amount": 0.75, "unit": "cup", "ingredient": "all-purpose flour", "taste_score": 3, "type": "Binding"},
+      {"amount": 0.5, "unit": "cup", "ingredient": "sugar", "taste_score": 3, "type": "Sweetener"},
+      {"amount": 0.5, "unit": "teaspoon", "ingredient": "salt", "taste_score": 2, "type": "Seasoning"},
+      {"amount": 4, "unit": "tablespoons", "ingredient": "cold unsalted butter", "taste_score": 3, "type": "Fat"},
+      {"amount": 1, "unit": "large", "ingredient": "egg", "taste_score": 3, "type": "Binding"},
+      {"amount": 2, "unit": "tablespoons", "ingredient": "canola oil", "taste_score": 3, "type": "Fat"},
+      {"amount": 1, "unit": "teaspoon", "ingredient": "vanilla extract", "taste_score": 3, "type": "Flavor"},
+      {"amount": 0.25, "unit": "teaspoon", "ingredient": "almond extract", "taste_score": 4, "type": "Flavor"},
+      {"amount": 6, "unit": "cups", "ingredient": "diced peeled apples divided", "taste_score": 4, "type": "Add-in"},
+      {"amount": 0.5, "unit": "cup", "ingredient": "apple cider or orange juice", "taste_score": 4, "type": "Liquid"},
+      {"amount": 0.5, "unit": "cup", "ingredient": "sugar", "taste_score": 3, "type": "Sweetener"},
+      {"amount": 0.25, "unit": "cup", "ingredient": "cornstarch", "taste_score": 3, "type": "Flavor"},
+      {"amount": 1.5, "unit": "teaspoons", "ingredient": "ground cinnamon", "taste_score": 4, "type": "Seasoning"},
+      {"amount": 1, "unit": "teaspoon", "ingredient": "vanilla extract", "taste_score": 4, "type": "Flavor"}
+    ]
+  },
+  {
+    "name": "strawberry-rhubarb-fruit-bars",
+    "ingredients": [
+      {"amount": 1, "unit": "cup", "ingredient": "chopped nuts", "taste_score": 3, "type": "Add-in"},
+      {"amount": 0.75, "unit": "cup", "ingredient": "whole-wheat pastry flour", "taste_score": 3, "type": "Binding"},
+      {"amount": 0.75, "unit": "cup", "ingredient": "all-purpose flour", "taste_score": 3, "type": "Binding"},
+      {"amount": 0.5, "unit": "cup", "ingredient": "sugar", "taste_score": 3, "type": "Sweetener"},
+      {"amount": 0.5, "unit": "teaspoon", "ingredient": "salt", "taste_score": 2, "type": "Seasoning"},
+      {"amount": 4, "unit": "tablespoons", "ingredient": "cold unsalted butter cut into small pieces", "taste_score": 3, "type": "Fat"},
+      {"amount": 1, "unit": "large", "ingredient": "egg", "taste_score": 3, "type": "Binding"},
+      {"amount": 2, "unit": "tablespoons", "ingredient": "canola oil", "taste_score": 3, "type": "Fat"},
+      {"amount": 1, "unit": "teaspoon", "ingredient": "vanilla extract", "taste_score": 3, "type": "Flavor"},
+      {"amount": 0.25, "unit": "teaspoon", "ingredient": "almond extract", "taste_score": 4, "type": "Flavor"},
+      {"amount": 3, "unit": "cups", "ingredient": "diced strawberries ", "taste_score": 4, "type": "Add-in"},
+      {"amount": 3, "unit": "cups", "ingredient": "diced fresh rhubarb divided", "taste_score": 4, "type": "Add-in"},
+      {"amount": 0.25, "unit": "cup", "ingredient": "orange juice", "taste_score": 3, "type": "Liquid"},
+      {"amount": 0.5, "unit": "cup", "ingredient": "plus 2 tablespoons sugar", "taste_score": 3, "type": "Sweetener"},
+      {"amount": 0.25, "unit": "cup", "ingredient": "cornstarch", "taste_score": 3, "type": "Flavor"},
+      {"amount": 1, "unit": "teaspoon", "ingredient": "vanilla extract", "taste_score": 4, "type": "Flavor"}
+    ]
+  },
+  {
+    "name": "pfeffernusse",
+    "ingredients": [
+      {"amount": 0.5, "unit": "teaspoon", "ingredient": "ground cinnamon", "taste_score": 3, "type": "Seasoning"},
+      {"amount": 0.25, "unit": "teaspoon", "ingredient": "ground ginger", "taste_score": 3, "type": "Seasoning"},
+      {"amount": 0.25, "unit": "teaspoon", "ingredient": "ground allspice", "taste_score": 3, "type": "Seasoning"},
+      {"amount": 0.25, "unit": "teaspoon", "ingredient": "ground cloves", "taste_score": 3, "type": "Seasoning"},
+      {"amount": 0.25, "unit": "teaspoon", "ingredient": "ground nutmeg", "taste_score": 3, "type": "Seasoning"},
+      {"amount": 0.25, "unit": "teaspoon", "ingredient": "ground aniseed", "taste_score": 3, "type": "Seasoning"},
+      {"amount": 0.125, "unit": "teaspoon", "ingredient": "ground white pepper", "taste_score": 2, "type": "Seasoning"},
+      {"amount": 0.125, "unit": "teaspoon", "ingredient": "ground black pepper", "taste_score": 2, "type": "Seasoning"},
+      {"amount": 0.5, "unit": "cup", "ingredient": "packed brown sugar", "taste_score": 3, "type": "Sweetener"},
+      {"amount": 0.25, "unit": "cup", "ingredient": "canola oil", "taste_score": 3, "type": "Fat"},
+      {"amount": 0.25, "unit": "cup", "ingredient": "carob molasses (see Tip) or dark honey", "taste_score": 3, "type": "Sweetener"},
+      {"amount": 1, "unit": "tablespoon", "ingredient": "whiskey or rum", "taste_score": 4, "type": "Flavor"},
+      {"amount": 1, "unit": "cup", "ingredient": "all-purpose flour", "taste_score": 3, "type": "Binding"},
+      {"amount": 1, "unit": "cup", "ingredient": "whole-wheat pastry flour", "taste_score": 3, "type": "Binding"},
+      {"amount": 1, "unit": "teaspoon", "ingredient": "baking powder", "taste_score": 3, "type": "Rising"},
+      {"amount": 1, "unit": "teaspoon", "ingredient": "cocoa powder", "taste_score": 3, "type": "Flavor"},
+      {"amount": 0.25, "unit": "teaspoon", "ingredient": "salt", "taste_score": 2, "type": "Seasoning"},
+      {"amount": 3, "unit": "tablespoons", "ingredient": "water", "taste_score": 2, "type": "Liquid"},
+      {"amount": 0.5, "unit": "cup", "ingredient": "confectioners, sugar", "taste_score": 3, "type": "Sweetener"},
+      {"amount": 1, "unit": "tablespoon", "ingredient": "orange juice", "taste_score": 3, "type": "Liquid"},
+      {"amount": 1, "unit": "", "ingredient": "Grated orange", "taste_score": 4, "type": "Flavor"}
+    ]
+  },
+  {
+    "name": "pumpkin-chocolate-chunk-cookies",
+    "ingredients": [
+      {"amount": 0.67, "unit": "cup", "ingredient": "whole-wheat pastry flour", "taste_score": 3, "type": "Binding"},
+      {"amount": 0.67, "unit": "cup", "ingredient": "all-purpose flour", "taste_score": 3, "type": "Binding"},
+      {"amount": 1.5, "unit": "teaspoons", "ingredient": "pumpkin pie spice", "taste_score": 3, "type": "Seasoning"},
+      {"amount": 1, "unit": "teaspoon", "ingredient": "baking powder", "taste_score": 3, "type": "Rising"},
+      {"amount": 0.5, "unit": "teaspoon", "ingredient": "baking soda", "taste_score": 3, "type": "Rising"},
+      {"amount": 0.5, "unit": "teaspoon", "ingredient": "salt", "taste_score": 2, "type": "Seasoning"},
+      {"amount": 0.75, "unit": "cup", "ingredient": "packed light brown sugar", "taste_score": 3, "type": "Sweetener"},
+      {"amount": 2, "unit": "large", "ingredient": "eggs", "taste_score": 4, "type": "Binding"},
+      {"amount": 0.75, "unit": "cup", "ingredient": "canned unseasoned pumpkin puree", "taste_score": 4, "type": "Flavor"},
+      {"amount": 3, "unit": "tablespoons", "ingredient": "melted butter", "taste_score": 3, "type": "Fat"},
+      {"amount": 3, "unit": "tablespoons", "ingredient": "canola oil", "taste_score": 3, "type": "Fat"},
+      {"amount": 1, "unit": "teaspoon", "ingredient": "vanilla extract", "taste_score": 4, "type": "Flavor"},
+      {"amount": 0.67, "unit": "cup", "ingredient": "chocolate chunks", "taste_score": 5, "type": "Add-in"}
+    ]
+  },
+  {
+    "name": "cinnamon-icebox-cookies",
+    "ingredients": [
+      {"amount": 2, "unit": "cups", "ingredient": "all-purpose flour", "taste_score": 3, "type": "Binding"},
+      {"amount": 1, "unit": "cup", "ingredient": "white whole-wheat flour", "taste_score": 3, "type": "Binding"},
+      {"amount": 1.25, "unit": "teaspoons", "ingredient": "baking powder", "taste_score": 3, "type": "Rising"},
+      {"amount": 0.25, "unit": "teaspoon", "ingredient": "salt", "taste_score": 2, "type": "Seasoning"},
+      {"amount": 1, "unit": "cup", "ingredient": "unsalted butter", "taste_score": 5, "type": "Fat"},
+      {"amount": 0.5, "unit": "cup", "ingredient": "granulated sugar", "taste_score": 3, "type": "Sweetener"},
+      {"amount": 2, "unit": "large", "ingredient": "eggs", "taste_score": 4, "type": "Binding"},
+      {"amount": 2, "unit": "teaspoons", "ingredient": "vanilla extract", "taste_score": 4, "type": "Flavor"},
+      {"amount": 0.5, "unit": "cup", "ingredient": "packed dark brown sugar", "taste_score": 3, "type": "Sweetener"},
+      {"amount": 1, "unit": "tablespoon", "ingredient": "ground cinnamon", "taste_score": 3, "type": "Seasoning"},
+      {"amount": 1, "unit": "cup", "ingredient": "finely chopped pecans", "taste_score": 4, "type": "Add-in"}
+    ]
+  },
+  {
+    "name": "espresso-walnut-marzipan-cookies",
+    "ingredients": [
+      {"amount": 1.5, "unit": "cups", "ingredient": "raw walnuts", "taste_score": 3, "type": "Add-in"},
+      {"amount": 0.5, "unit": "cup", "ingredient": "confectioners, sugar", "taste_score": 3, "type": "Sweetener"},
+      {"amount": 0.5, "unit": "teaspoon", "ingredient": "vanilla extract", "taste_score": 4, "type": "Flavor"},
+      {"amount": 1, "unit": "tablespoon", "ingredient": "cold water as needed", "taste_score": 2, "type": "Liquid"},
+      {"amount": 7, "unit": "tablespoons", "ingredient": "unsalted butter softened", "taste_score": 5, "type": "Fat"},
+      {"amount": 5, "unit": "tablespoons", "ingredient": "granulated sugar", "taste_score": 3, "type": "Sweetener"},
+      {"amount": 1, "unit": "teaspoon", "ingredient": "instant espresso dissolved in 2 tablespoons warm water", "taste_score": 4, "type": "Flavor"},
+      {"amount": 0.75, "unit": "cup", "ingredient": "all-purpose flour", "taste_score": 3, "type": "Binding"},
+      {"amount": 0.75, "unit": "cup", "ingredient": "whole-wheat pastry flour", "taste_score": 3, "type": "Binding"},
+      {"amount": 0.5, "unit": "cup", "ingredient": "cornstarch", "taste_score": 2, "type": "Binding"},
+      {"amount": 1, "unit": "teaspoon", "ingredient": "instant espresso powder", "taste_score": 4, "type": "Flavor"},
+      {"amount": 1, "unit": "tablespoon", "ingredient": "warm water", "taste_score": 2, "type": "Liquid"},
+      {"amount": 1, "unit": "cup", "ingredient": "confectioners, sugar", "taste_score": 3, "type": "Sweetener"},
+      {"amount": 3, "unit": "tablespoons", "ingredient": "unsweetened almond milk", "taste_score": 2, "type": "Liquid"},
+      {"amount": 1, "unit": "tablespoon", "ingredient": "grated lemon zest", "taste_score": 4, "type": "Flavor"}
+    ]
+  },
+  {
+    "name": "chocolate-covered-brownie-bites",
+    "ingredients": [
+      {"amount": 0.75, "unit": "cup", "ingredient": "all-purpose flour", "taste_score": 3, "type": "Binding"},
+      {"amount": 0.67, "unit": "cup", "ingredient": "confectioners' sugar", "taste_score": 3, "type": "Sweetener"},
+      {"amount": 3, "unit": "tablespoons", "ingredient": "unsweetened cocoa powder American-style or Dutch-process", "taste_score": 3, "type": "Flavor"},
+      {"amount": 3, "unit": "ounces", "ingredient": "semisweet or bittersweet chocolate", "taste_score": 5, "type": "Add-in"},
+      {"amount": 1.5, "unit": "tablespoons", "ingredient": "canola oil", "taste_score": 3, "type": "Fat"},
+      {"amount": 0.25, "unit": "cup", "ingredient": "granulated sugar", "taste_score": 3, "type": "Sweetener"},
+      {"amount": 1.5, "unit": "tablespoons", "ingredient": "light corn syrup blended with 3 tablespoons lukewarm water", "taste_score": 2, "type": "Liquid"},
+      {"amount": 2, "unit": "teaspoons", "ingredient": "vanilla extract", "taste_score": 4, "type": "Flavor"},
+      {"amount": 0.125, "unit": "teaspoon", "ingredient": "salt", "taste_score": 2, "type": "Seasoning"},
+      {"amount": 1, "unit": "large", "ingredient": "egg", "taste_score": 4, "type": "Binding"},
+      {"amount": 0.33, "unit": "cup", "ingredient": "chopped toasted walnuts", "taste_score": 4, "type": "Add-in"},
+      {"amount": 1, "unit": "cup", "ingredient": "bittersweet chocolate chips melted", "taste_score": 5, "type": "Add-in"}
+    ]
+  },
+  {
+    "name": "garri-cookies",
+    "ingredients": [
+      {"amount": 1.5, "unit": "cups", "ingredient": "garri ground into a fine powder", "taste_score": 3, "type": "Binding"},
+      {"amount": 6, "unit": "tablespoons", "ingredient": "granulated sugar", "taste_score": 3, "type": "Sweetener"},
+      {"amount": 0.75, "unit": "teaspoon", "ingredient": "baking powder", "taste_score": 3, "type": "Rising"},
+      {"amount": 4, "unit": "tablespoons", "ingredient": "cold vegan butter", "taste_score": 5, "type": "Fat"},
+      {"amount": 0.75, "unit": "cup", "ingredient": "cold water as needed", "taste_score": 2, "type": "Liquid"},
+      {"amount": 2, "unit": "cups", "ingredient": "canola oil or other neutral oil", "taste_score": 3, "type": "Fat"}
+    ]
+  },
+  {
+    "name": "edible-chocolate-chip-cookie-dough-balls",
+    "ingredients": [
+      {"amount": 1, "unit": "can", "ingredient": "chickpeas rinsed and patted dry", "taste_score": 2, "type": "Binding"},
+      {"amount": 0.5, "unit": "cup", "ingredient": "almond butter", "taste_score": 4, "type": "Fat"},
+      {"amount": 0.25, "unit": "cup", "ingredient": "packed light brown sugar", "taste_score": 3, "type": "Sweetener"},
+      {"amount": 1, "unit": "teaspoon", "ingredient": "vanilla extract", "taste_score": 4, "type": "Flavor"},
+      {"amount": 0.25, "unit": "teaspoon", "ingredient": "salt", "taste_score": 2, "type": "Seasoning"},
+      {"amount": 0.33, "unit": "cup", "ingredient": "mini chocolate chips", "taste_score": 5, "type": "Add-in"}
+    ]
+  },
+  {
+    "name": "chocolate-chunk-walnut-meringue-cookies",
+    "ingredients": [
+      {"amount": 2, "unit": "large", "ingredient": "egg whites (see Tip)", "taste_score": 4, "type": "Binding"},
+      {"amount": 0.125, "unit": "teaspoon", "ingredient": "cream of tartar", "taste_score": 3, "type": "Rising"},
+      {"amount": 0.5, "unit": "cup", "ingredient": "granulated sugar", "taste_score": 3, "type": "Sweetener"},
+      {"amount": 0.5, "unit": "teaspoon", "ingredient": "vanilla extract", "taste_score": 4, "type": "Flavor"},
+      {"amount": 0.125, "unit": "teaspoon", "ingredient": "salt", "taste_score": 2, "type": "Seasoning"},
+      {"amount": 1, "unit": "cup", "ingredient": "chopped bittersweet chocolate", "taste_score": 5, "type": "Add-in"},
+      {"amount": 1, "unit": "cup", "ingredient": "chopped walnuts", "taste_score": 4, "type": "Add-in"},
+      {"amount": 0.5, "unit": "cup", "ingredient": "chopped dried cranberries", "taste_score": 3, "type": "Add-in"}
+    ]
+  },
+  {
+    "name": "chocolate-chip-almond-butter-cookies",
+    "ingredients": [
+      {"amount": 2, "unit": "tablespoons", "ingredient": "ground flaxseed", "taste_score": 2, "type": "Binding"},
+      {"amount": 3, "unit": "tablespoons", "ingredient": "water", "taste_score": 1, "type": "Liquid"},
+      {"amount": 2, "unit": "tablespoons", "ingredient": "vanilla extract", "taste_score": 4, "type": "Flavor"},
+      {"amount": 1, "unit": "cup", "ingredient": "unsweetened natural almond butter", "taste_score": 5, "type": "Fat"},
+      {"amount": 0.75, "unit": "cup", "ingredient": "packed brown sugar", "taste_score": 3, "type": "Sweetener"},
+      {"amount": 1, "unit": "teaspoon", "ingredient": "baking soda", "taste_score": 2, "type": "Rising"},
+      {"amount": 0.25, "unit": "teaspoon", "ingredient": "salt", "taste_score": 2, "type": "Seasoning"},
+      {"amount": 3, "unit": "tablespoons", "ingredient": "almond flour", "taste_score": 3, "type": "Binding"},
+      {"amount": 0.5, "unit": "cup", "ingredient": "unsalted almonds toasted", "taste_score": 4, "type": "Add-in"},
+      {"amount": 0.5, "unit": "cup", "ingredient": "mini semisweet chocolate chips", "taste_score": 5, "type": "Add-in"}
+    ]
+  },
+  {
+    "name": "ginger-spice-crackles",
+    "ingredients": [
+      {"amount": 1, "unit": "cup", "ingredient": "all-purpose flour", "taste_score": 3, "type": "Binding"},
+      {"amount": 0.5, "unit": "cup", "ingredient": "white whole-wheat flour", "taste_score": 3, "type": "Binding"},
+      {"amount": 2, "unit": "teaspoons", "ingredient": "ground ginger", "taste_score": 4, "type": "Flavor"},
+      {"amount": 1.5, "unit": "teaspoons", "ingredient": "ground cinnamon", "taste_score": 4, "type": "Flavor"},
+      {"amount": 1, "unit": "teaspoon", "ingredient": "baking soda", "taste_score": 2, "type": "Rising"},
+      {"amount": 0.25, "unit": "teaspoon", "ingredient": "ground cloves", "taste_score": 4, "type": "Flavor"},
+      {"amount": 0.25, "unit": "teaspoon", "ingredient": "salt", "taste_score": 2, "type": "Seasoning"},
+      {"amount": 1, "unit": "cup", "ingredient": "packed dark brown sugar", "taste_score": 3, "type": "Sweetener"},
+      {"amount": 6, "unit": "tablespoons", "ingredient": "unsalted butter softened", "taste_score": 5, "type": "Fat"},
+      {"amount": 1, "unit": "large", "ingredient": "egg", "taste_score": 4, "type": "Binding"},
+      {"amount": 2, "unit": "tablespoons", "ingredient": "molasses", "taste_score": 4, "type": "Flavor"},
+      {"amount": 0.33, "unit": "cup", "ingredient": "confectioners' sugar", "taste_score": 3, "type": "Sweetener"}
+    ]
+  },
+  {
+    "name": "boot-tracks",
+    "ingredients": [
+      {"amount": 0.5, "unit": "cup", "ingredient": "salted butter", "taste_score": 5, "type": "Fat"},
+      {"amount": 0.67, "unit": "cup", "ingredient": "granulated sugar", "taste_score": 3, "type": "Sweetener"},
+      {"amount": 2, "unit": "large", "ingredient": "eggs", "taste_score": 4, "type": "Binding"},
+      {"amount": 1, "unit": "teaspoon", "ingredient": "vanilla extract", "taste_score": 4, "type": "Flavor"},
+      {"amount": 1, "unit": "cup", "ingredient": "whole-wheat pastry flour", "taste_score": 3, "type": "Binding"},
+      {"amount": 6, "unit": "tablespoons", "ingredient": "cocoa powder", "taste_score": 5, "type": "Flavor"},
+      {"amount": 2, "unit": "tablespoons", "ingredient": "canola oil", "taste_score": 3, "type": "Fat"},
+      {"amount": 0.5, "unit": "teaspoon", "ingredient": "espresso powder (optional)", "taste_score": 4, "type": "Flavor"},
+      {"amount": 2, "unit": "teaspoon", "ingredient": "Confectioners sugar", "taste_score": 4, "type": "Sweetener"}
+    ]
+  },
+  {
+    "name": "air-fryer-chewy-oatmeal-raisin-tahini-cookies",
+    "ingredients": [
+      {"amount": 1, "unit": "cup", "ingredient": "old-fashioned rolled oats", "taste_score": 4, "type": "Binding"},
+      {"amount": 0.25, "unit": "cup", "ingredient": "whole-wheat pastry flour", "taste_score": 3, "type": "Binding"},
+      {"amount": 0.25, "unit": "cup", "ingredient": "all-purpose flour", "taste_score": 3, "type": "Binding"},
+      {"amount": 0.5, "unit": "teaspoon", "ingredient": "ground cinnamon", "taste_score": 4, "type": "Flavor"},
+      {"amount": 0.25, "unit": "teaspoon", "ingredient": "baking soda", "taste_score": 2, "type": "Rising"},
+      {"amount": 0.25, "unit": "teaspoon", "ingredient": "salt", "taste_score": 2, "type": "Seasoning"},
+      {"amount": 0.25, "unit": "cup", "ingredient": "tahini", "taste_score": 5, "type": "Fat"},
+      {"amount": 2, "unit":"tablespoons", "ingredient": "unsalted butter softened", "taste_score": 5, "type": "Fat"},
+      {"amount": 0.33,"unit": "cup", "ingredient": "granulated sugar", "taste_score": 3, "type": "Sweetener"},
+      {"amount": 0.33,"unit": "cup", "ingredient": "packed brown sugar", "taste_score": 3, "type": "Sweetener"},
+      {"amount": 1, "unit":"large", "ingredient": "egg", "taste_score": 4, "type": "Binding"},
+      {"amount": 1, "unit":"teaspoon", "ingredient": "vanilla extract", "taste_score": 4, "type": "Flavor"},
+      {"amount": 0.5,"unit": "cup", "ingredient": "raisins", "taste_score": 4, "type": "Add-in"},
+      {"amount": 0.25, "unit":"cup", "ingredient": "chopped walnuts toasted", "taste_score": 5, "type": "Add-in"}
+    ]
+  },
+  {
+    "name": "vanilla-candy-cane-peppermint-bars",
+    "ingredients": [
+      {"amount": 0.75, "unit": "cup", "ingredient": "sugar (see Tips)", "taste_score": 3, "type": "Sweetener"},
+      {"amount": 0.33, "unit": "cup", "ingredient": "canola oil", "taste_score": 3, "type": "Fat"},
+      {"amount": 1, "unit": "large", "ingredient": "egg", "taste_score": 4, "type": "Binding"},
+      {"amount": 1, "unit": "teaspoon", "ingredient": "vanilla", "taste_score": 4, "type": "Flavor"},
+      {"amount": 1, "unit": "cup", "ingredient": "all-purpose flour", "taste_score": 3, "type": "Binding"},
+      {"amount": 0.5, "unit": "teaspoon", "ingredient": "baking powder", "taste_score": 2, "type": "Rising"},
+      {"amount": 0.5, "unit": "teaspoon", "ingredient": "baking soda", "taste_score": 2, "type": "Rising"},
+      {"amount": 0.25, "unit": "teaspoon", "ingredient": "salt", "taste_score": 2, "type": "Seasoning"},
+      {"amount": 0.33, "unit": "cup", "ingredient": "crushed peppermint candies", "taste_score": 5, "type": "Add-in"},
+      {"amount": 3, "unit": "ounces", "ingredient": "dark chocolate melted", "taste_score": 5, "type": "Flavor"}
+    ]
+  },
+  {
+    "name": "venetian-spice-cookies-bicciolani",
+    "ingredients": [
+      {"amount": 0.5, "unit": "cup", "ingredient": "all-purpose flour", "taste_score": 3, "type": "Binding"},
+      {"amount": 0.5, "unit": "cup", "ingredient": "white whole-wheat flour", "taste_score": 3, "type": "Binding"},
+      {"amount": 5, "unit":"tablespoons", "ingredient": "granulated sugar", "taste_score": 3, "type": "Sweetener"},
+      {"amount": 3,"unit": "tablespoons", "ingredient": "cornmeal", "taste_score": 3, "type": "Binding"},
+      {"amount": 1, "unit":"teaspoon", "ingredient": "ground cinnamon", "taste_score": 4, "type": "Flavor"},
+      {"amount": 1, "unit":"teaspoon","ingredient": "Pinch of ground cloves", "taste_score": 2, "type": "Flavor"},
+      {"amount": 1, "unit":"teaspoon","ingredient": "Pinch of ground coriander", "taste_score": 2, "type": "Flavor"},
+      {"amount": 1, "unit":"teaspoon","ingredient": "Pinch of ground mace", "taste_score": 2, "type": "Flavor"},
+      {"amount": 1, "unit":"teaspoon","ingredient": "white pepper", "taste_score": 2, "type": "Seasoning"},
+      {"amount": 1, "unit":"teaspoon", "ingredient": "Pinch of salt", "taste_score": 2, "type": "Seasoning"},
+      {"amount": 4, "unit": "large", "ingredient": "egg yolks", "taste_score": 4, "type": "Binding"},
+      {"amount": 0.5, "unit": "cup", "ingredient": "cold unsalted butter cubed", "taste_score": 5, "type": "Fat"},
+      {"amount": 0.5, "unit": "teaspoon", "ingredient": "vanilla extract", "taste_score": 4, "type": "Flavor"}
+    ]
+  },
+  {
+    "name": "almond-confetti-mandel-bread",
+    "ingredients": [
+      {"amount": 3, "unit": "large", "ingredient": "eggs", "taste_score": 4, "type": "Binding"},
+      {"amount": 1, "unit":"cup", "ingredient": "grapeseed oil", "taste_score": 3, "type": "Fat"},
+      {"amount": 2, "unit":"teaspoons", "ingredient": "vanilla extract", "taste_score": 4, "type": "Flavor"},
+      {"amount": 2, "unit":"teaspoons", "ingredient": "almond extract", "taste_score": 5, "type": "Flavor"},
+      {"amount": 1.5,"unit": "cups", "ingredient": "all-purpose flour", "taste_score": 3, "type": "Binding"},
+      {"amount": 1.5, "unit":"cups", "ingredient": "whole-wheat flour", "taste_score": 3, "type": "Binding"},
+      {"amount": 1,"unit": "cup", "ingredient": "granulated sugar", "taste_score": 3, "type": "Sweetener"},
+      {"amount": 1.5, "unit":"teaspoons", "ingredient": "baking powder", "taste_score": 2, "type": "Rising"},
+      {"amount": 0.5, "unit":"teaspoon", "ingredient": "salt", "taste_score": 2, "type": "Seasoning"},
+      {"amount": 1,"unit": "cup", "ingredient": "raw almonds coarsely chopped", "taste_score": 5, "type": "Add-in"},
+      {"amount": 0.5,"unit": "cup", "ingredient": "rainbow sprinkles", "taste_score": 5, "type": "Add-in"}
+    ]
+  },
+  {
+    "name": "chocolate-coconut-thumbprints",
+    "ingredients": [
+      {"amount": 0.75,"unit": "cup", "ingredient": "all-purpose flour", "taste_score": 3, "type": "Binding"},
+      {"amount": 0.5, "unit":"cup", "ingredient": "white whole-wheat flour", "taste_score": 3, "type": "Binding"},
+      {"amount": 0.33,"unit": "cup", "ingredient": "unsweetened cocoa powder", "taste_score": 5, "type": "Flavor"},
+      {"amount": 0.5, "unit":"teaspoon", "ingredient": "baking powder", "taste_score": 2, "type": "Rising"},
+      {"amount": 0.25,"unit": "teaspoon", "ingredient": "baking soda", "taste_score": 2, "type": "Rising"},
+      {"amount": 0.25,"unit": "teaspoon", "ingredient": "salt", "taste_score": 2, "type": "Seasoning"},
+      {"amount": 0.5,"unit": "cup (1 stick)", "ingredient": "unsalted butter softened", "taste_score": 5, "type": "Fat"},
+      {"amount": 0.5,"unit": "cup", "ingredient": "granulated sugar", "taste_score": 3, "type": "Sweetener"},
+      {"amount": 1,"unit": "large", "ingredient": "egg", "taste_score": 4, "type": "Binding"},
+      {"amount": 1, "unit":"teaspoon", "ingredient": "vanilla extract", "taste_score": 4, "type": "Flavor"},
+      {"amount": 0.5,"unit": "cup", "ingredient": "heavy cream", "taste_score": 3, "type": "Fat"},
+      {"amount": 4,"unit": "ounces", "ingredient": "semisweet chocolate chopped", "taste_score": 5, "type": "Flavor"},
+      {"amount": 3,"unit": "tablespoons", "ingredient": "unsweetened shredded coconut toasted", "taste_score": 5, "type": "Add-in"}
+    ]
+  },
+  {
+    "name": "lemon-poppy-seed-hamantaschen",
+    "ingredients": [
+      {"amount": 0.75,"unit": "cup", "ingredient": "all-purpose flour", "taste_score": 3, "type": "Binding"},
+      {"amount": 0.75,"unit": "cup", "ingredient": "whole-wheat flour", "taste_score": 3, "type": "Binding"},
+      {"amount": 0.5,"unit": "cup", "ingredient": "confectioners' sugar", "taste_score": 3, "type": "Sweetener"},
+      {"amount": 1,"unit": "tablespoon", "ingredient": "poppy seeds", "taste_score": 5, "type": "Add-in"},
+      {"amount": 1, "unit":"teaspoon", "ingredient": "baking powder", "taste_score": 2, "type": "Rising"},
+      {"amount": 0.25,"unit": "teaspoon", "ingredient": "salt", "taste_score": 2, "type": "Seasoning"},
+      {"amount": 0.25,"unit": "cup", "ingredient": "grapeseed oil", "taste_score": 3, "type": "Fat"},
+      {"amount": 3,"unit": "tablespoons", "ingredient": "granulated sugar", "taste_score": 3, "type": "Sweetener"},
+      {"amount": 2, "unit":"large", "ingredient": "eggs", "taste_score": 4, "type": "Binding"},
+      {"amount": 1.5,"unit": "teaspoons", "ingredient": "grated lemon zest", "taste_score": 5, "type": "Flavor"},
+      {"amount": 1, "unit":"teaspoon", "ingredient": "lemon juice", "taste_score": 5, "type": "Flavor"},
+      {"amount": 1, "unit":"teaspoon", "ingredient": "vanilla extract", "taste_score": 4, "type": "Flavor"},
+      {"amount": 0.75,"unit": "cup", "ingredient": "lemon curd", "taste_score": 5, "type": "Flavor"}
+    ]
+  }
+]
+}
